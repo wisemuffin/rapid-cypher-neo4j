@@ -1,0 +1,943 @@
+﻿Project,Workbook,Workbook Publisher,Is Extract?,Type,Connection
+NEO - CSA,All Open INCs,SVC_NTZ_PRD_CSA_TBS,No,Netezza,Remedy Work Log Notes
+NEO - CSA,All Open INCs,SVC_NTZ_PRD_CSA_TBS,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - CSA,All Open INCs,SVC_NTZ_PRD_CSA_TBS,No,Redshift,UAT CC A11S - Orders
+NEO - CSA,All Open INCs,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,NEX  - Order and Activation Summary
+NEO - CSA,CSA - AGED - Daily Summary TEST,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA - AGED - Daily Summary TEST,Paul Dunshea,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA,CSA -  CX Daily Insights Dashboard V1,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA -  CX Daily Insights Dashboard V1,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA -  CX Daily Insights Dashboard V1,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA - FTTP Dashboard,Paul Dunshea,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA - FTTP Dashboard,Paul Dunshea,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA - FTTP Dashboard,Paul Dunshea,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA - FTTP Dashboard,Paul Dunshea,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA - FW LTSS Incoming Incidents and Actioned Interactions,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA - IHvsBAU Fallout,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA,CSA - IHvsBAU Fallout,Chintan Gatecha,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA - Incident Status Lookup Tool,Chintan Gatecha,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA - Incident Status Lookup Tool_UAT (3),SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA - Incidents Resolved For More Than 2 Days,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA - Repeat CX (OTD Real Time Repeat INC),Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA - Repeat CX (OTD Real Time Repeat INC),Paul Dunshea,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA - SAOC Calls and Incident Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA - SAOC Calls and Incident Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA - SDP Aged Appt and Remediation Breakdown,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA - SDP Aged Appt and Remediation Breakdown,Paul Dunshea,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA -Priority Assist Open Incidents,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA -Priority Assist Open Incidents,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A05A - Aged and NI with Worklog Notes
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A20b - MTM 3.0  Summary
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E01 - Genesys MM Virtual Queue Detail
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E08 - Genesys VWFM Agent Adherence Data
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA R&A Report Portal,SVC_NTZ_PRD_CSA_TBS,Yes,Odata,CSA E28 - HUBdocs - OPA REPORT LIST
+NEO - CSA,CSA01 - Assurance MTM 3.0,David Griffiths,No,Postgres,Tableau Events
+NEO - CSA,CSA01 - Assurance MTM 3.0,David Griffiths,No,Redshift,CSA A20b - MTM 3.0  Summary
+NEO - CSA,CSA01 - Assurance MTM 3.0,David Griffiths,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA01a - Assurance Incident Type,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA01c - Incidents Reported Variation,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA01e - CS&A Performance Results,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA01e - CS&A Performance Results,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA01m - MTTR,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA03 - SLA Miss Reason Root Cause Analysis,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA03 - SLA Miss Reason Root Cause Analysis,Brenden Brain,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA04 - Contact Centre Metrics,SVC_NTZ_PRD_CSA_TBS,No,Hyper,CSAxx - Social Media
+NEO - CSA,CSA04 - Contact Centre Metrics,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA04 - Contact Centre Metrics,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E01 - Genesys MM Virtual Queue Detail
+NEO - CSA,CSA04 - Contact Centre Metrics,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA07 - % of Appointments Completed OTD,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA08 - First and Subsequent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA08 - First and Subsequent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA10 - FTTx Line Test Results,SVC_NTZ_PRD_CSA_TBS,No,Hyper,CSAxx - Line Test Results v2
+NEO - CSA,CSA10 - FTTx Line Test Results,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA11 – WBA3 SLA STC Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA11 – WBA3 SLA STC Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA11 – WBA3 SLA STC Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A23 - Stop The Clock
+NEO - CSA,CSA13 - FTTC Real Time Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA16 - e-SLA Report,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA,CSA16 - e-SLA Report,Chintan Gatecha,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA16 - e-SLA Report,Chintan Gatecha,No,Redshift,CSA A23 - Stop The Clock
+NEO - CSA,CSA16a - Enhanced SLA Intraday Dashboard,Tim Scerri,No,Postgres,Tableau Events
+NEO - CSA,CSA16a - Enhanced SLA Intraday Dashboard,Tim Scerri,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA16a - Enhanced SLA Intraday Dashboard,Tim Scerri,No,Redshift,CSA A20b - MTM 3.0  Summary
+NEO - CSA,CSA18 TCS Speed Assurance & Speed Degradation Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA18 TCS Speed Assurance & Speed Degradation Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA18 TCS Speed Assurance & Speed Degradation Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA18 TCS Speed Assurance & Speed Degradation Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA18 TCS Speed Assurance & Speed Degradation Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA20 - BOC Real Time Dashboard,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA20 - BOC Real Time Dashboard,Brenden Brain,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA20 - BOC Real Time Dashboard,Brenden Brain,No,Redshift,CSA A20b - MTM 3.0  Summary
+NEO - CSA,CSA20 - BOC Real Time Dashboard,Brenden Brain,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA20 - BOC Real Time Dashboard,Brenden Brain,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA22 - Southern Centre Adherence dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA22 - Southern Centre Adherence dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E08 - Genesys VWFM Agent Adherence Data
+NEO - CSA,CSA22 - Southern Centre Adherence dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA22 - Southern Centre Adherence dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA23 - Southern Centre Call dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA23 - Southern Centre Call dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA23 - Southern Centre Call dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA23 - Southern Centre Call dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA24 - BOC Contact Centre Performance,Tim Scerri,No,Postgres,Tableau Events
+NEO - CSA,CSA24 - BOC Contact Centre Performance,Tim Scerri,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA24 - BOC Contact Centre Performance,Tim Scerri,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA24 - BOC Contact Centre Performance,Tim Scerri,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA25 - V&C Incidents with TR Repeats (Trend and Real Time),Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA27 - Appointments within SLA,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA27 - Appointments within SLA,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA,CSA28 - Impact of CRQ on Reported incidents,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA28 - Impact of CRQ on Reported incidents,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A31 - Incident CRQ
+NEO - CSA,CSA29 - GCC Call Performance,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA29 - GCC Call Performance,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA29 - GCC Call Performance,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA29 - GCC Call Performance,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA30a - iWD TCS Agent Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA30a - iWD TCS Agent Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA30a - iWD TCS Agent Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA31 - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA31 - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA31 - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA31 - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA31 - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA31a - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA31a - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA31a - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA31a - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA31a - NEO SAOC Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA32 - Tech League Ladder,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA32 - Tech League Ladder,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA33 - Search Incident & WO History,Mari Len Villaflores,No,Netezza,NSO 02H - WWM All Appointments with History
+NEO - CSA,CSA33 - Search Incident & WO History,Mari Len Villaflores,No,Netezza,NSO 02H - WWM Work Orders with History
+NEO - CSA,CSA33 - Search Incident & WO History,Mari Len Villaflores,No,Netezza,Remedy Work Log Notes
+NEO - CSA,CSA33 - Search Incident & WO History,Mari Len Villaflores,No,Postgres,Tableau Events
+NEO - CSA,CSA33 - Search Incident & WO History,Mari Len Villaflores,No,Redshift,CSA A05A - Aged and NI with Worklog Notes
+NEO - CSA,CSA33 - Search Incident & WO History,Mari Len Villaflores,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO - CSA,CSA34 - E&C Exceed Metrics and Commentary charts,SVC_NTZ_PRD_CSA_TBS,No,Hyper,BPE - Complaints
+NEO - CSA,CSA34 - E&C Exceed Metrics and Commentary charts,SVC_NTZ_PRD_CSA_TBS,No,Hyper,BPE - Open Complaints
+NEO - CSA,CSA34 - E&C Exceed Metrics and Commentary charts,SVC_NTZ_PRD_CSA_TBS,No,Hyper,CSAxx - Social Media
+NEO - CSA,CSA34 - E&C Exceed Metrics and Commentary charts,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA34 - E&C Exceed Metrics and Commentary charts,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA34 - E&C Exceed Metrics and Commentary charts,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA35 - FTTN Speed Assurance_Speed Degradation Report,Tina Kokerakani,No,Postgres,Tableau Events
+NEO - CSA,CSA35 - FTTN Speed Assurance_Speed Degradation Report,Tina Kokerakani,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA35 - FTTN Speed Assurance_Speed Degradation Report,Tina Kokerakani,No,Redshift,CSA A14S - Inc - Wor
+NEO - CSA,CSA36 - E36 (OTD) Root Cause Analysis,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,"CSA37 - Resolution Rejected, Accepted, and Declined",SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,"CSA37 - Resolution Rejected, Accepted, and Declined",SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,"CSA37 - Resolution Rejected, Accepted, and Declined",SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E04 - Genesys Team Data
+NEO - CSA,CSA39 - Work Order PCR Descriptions,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA39 - Work Order PCR Descriptions,Brenden Brain,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA39 - Work Order PCR Descriptions,Brenden Brain,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA41 - FW OTD Real Time Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA41a - FW Real Time Open Incidents Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA42b - LTSS Real Time Open Incidents Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA44 - HFC OTD Real Time CS&A Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA45 - WBA SLA(E4) Root Cause Analysis,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA45 - WBA SLA(E4) Root Cause Analysis,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA46 - Agent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA46 - Agent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau View Stats
+NEO - CSA,CSA46 - Agent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA46 - Agent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA46 - Agent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA46 - Agent Interactions Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA48 - FW MTM SPOG,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA48 - FW MTM SPOG,Paul Dunshea,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA50 - Open Incident Analysis,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA50p - Priority Assist Assurance Intraday,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA50p - Priority Assist Assurance Intraday,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA50p - Priority Assist Assurance Intraday,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA50p - Priority Assist Assurance Intraday,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A20b - MTM 3.0  Summary
+NEO - CSA,CSA51 - Aged Incidents,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA51 - Aged Incidents,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A05A - Aged and NI with Worklog Notes
+NEO - CSA,CSA51 - Aged Incidents,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA51 - Aged Incidents_Including Closed,Mari Len Villaflores,No,Postgres,Tableau Events
+NEO - CSA,CSA51 - Aged Incidents_Including Closed,Mari Len Villaflores,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA51a - Aged In and Out Model,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA51b - Under 7 Days Allocation/Aged Robot Allocation,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA51b - Under 7 Days Allocation/Aged Robot Allocation,Paul Dunshea,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA51H - Aged Incidents with Snapshot History,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA53 - Aged Incidents Reporting Workbook,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA57 - RSP Assurance L3 Escalations Main Dashboard,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA,CSA57 - RSP Assurance L3 Escalations Main Dashboard,Chintan Gatecha,No,Redshift,CSA A11b - Incidents and Cases
+NEO - CSA,CSA58 - FTTN Exceed Metrics SPOG,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA58 - FTTN Exceed Metrics SPOG,Brenden Brain,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA58 - FTTN Exceed Metrics SPOG,Brenden Brain,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA58 - FTTN Exceed Metrics SPOG,Brenden Brain,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA61 - Telstra B2B Performance Analysis,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA61 - Telstra B2B Performance Analysis,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA65 - Exceed RSP L3 Report,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA,CSA65 - Exceed RSP L3 Report,Chintan Gatecha,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA65a - RSP Reported Incidents,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA,CSA66 - RSP Performance Report,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA66a - RSP Performance Reported Summary,David Griffiths,No,Postgres,Tableau Events
+NEO - CSA,CSA67 - Telstra Continuity Report,SVC_NTZ_PRD_CSA_TBS,No,Hyper,CSAxx - Telstra Continuity Appointment Data
+NEO - CSA,CSA67 - Telstra Continuity Report,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA70a - TCS Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA70a - TCS Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA70a - TCS Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA77a TCS Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA77a TCS Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA77a TCS Metrics Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA79 - HFC Exceed Metrics SPOG,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA79 - HFC Exceed Metrics SPOG,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA79 - HFC Exceed Metrics SPOG,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA79 - HFC Exceed Metrics SPOG,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA80 - No Touch Automation Analysis,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA81 - NTD Relocation Data,SVC_NTZ_PRD_CSA_TBS,No,Netezza,NSO 02- WWM All Appointments and Work Orders
+NEO - CSA,CSA81 - NTD Relocation Data,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA82 - FTTX Open INC with NI Association,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA82 - FTTX Open INC with NI Association,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11a - Service and Network Incidents
+NEO - CSA,CSA84 - Complaints - SME Governance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Hyper,BPE - Complaints
+NEO - CSA,CSA84 - Complaints - SME Governance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Hyper,BPE - Open Complaints
+NEO - CSA,CSA84 - Complaints - SME Governance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA85 - TPG Get Well Stay Well Program,Brenden Brain,No,Hyper,NAR and NI Dashboard 2019
+NEO - CSA,CSA85 - TPG Get Well Stay Well Program,Brenden Brain,No,Hyper,Open NAR and TOW Status
+NEO - CSA,CSA85 - TPG Get Well Stay Well Program,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA85 - TPG Get Well Stay Well Program,Brenden Brain,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA87 - Rodent Truck Roll Report,Paul Dunshea,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO - CSA,CSA87 - Rodent Truck Roll Report,Paul Dunshea,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA89 - AGED - Real Time,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA90- iWD Agent Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA90- iWD Agent Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E01 - Genesys MM Virtual Queue Detail
+NEO - CSA,CSA90- iWD Agent Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA92 - Incidents Reported and Alerts Dashboard,Brenden Brain,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - CSA,CSA92 - Incidents Reported and Alerts Dashboard,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA95 - RnT Daily,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA95 - RnT Daily,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA96 - RRR Weekly Daily Performance,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA96 - RRR Weekly Daily Performance,Paul Dunshea,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA97 - V&C VMB,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA97 - V&C VMB,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A05A - Aged and NI with Worklog Notes
+NEO - CSA,CSA99 - FTTC Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA99 - FTTC Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA99 - FTTC Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA99 - FTTC Performance Dashboard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA,CSA102 - Repeat Driver Tree,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA103 - Repeats VMB,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA104 - Rejections VMB,Israel Hoffmann,No,Postgres,Tableau Events
+NEO - CSA,CSA104 - Rejections VMB,Israel Hoffmann,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA105 - Daily MTTR & Aged Scorecard,SVC_NTZ_PRD_CSA_TBS,No,Hyper,PAI_OTD_SDP_Performance
+NEO - CSA,CSA105 - Daily MTTR & Aged Scorecard,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA105 - Daily MTTR & Aged Scorecard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA105 - Daily MTTR & Aged Scorecard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA105 - Daily MTTR & Aged Scorecard,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA,CSA106 - Fix CX Dashboard,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA106 - Fix CX Dashboard,Brenden Brain,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA106 - Fix CX Dashboard,Brenden Brain,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA106 - Fix CX Dashboard,Brenden Brain,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA107 - Realtime Cancelled Appointments,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA108 - V&C One Stop Shop,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA108 - V&C One Stop Shop,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSA108 - V&C One Stop Shop,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA108 - V&C One Stop Shop,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA108 - V&C One Stop Shop,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA,CSA109 - Aged Incident Lifecycle,Paul Dunshea,No,Postgres,Tableau Events
+NEO - CSA,CSA109 - Aged Incident Lifecycle,Paul Dunshea,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO - CSA,CSA110 - Self Healing VMB Data,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA110 - Self Healing VMB Data,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA,CSA110 - Self Healing VMB Data,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA,CSA110 - Self Healing VMB Data,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA,CSA110 - Self Healing VMB Data,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA,CSA110 - Self Healing VMB Data,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA,CSA113 - Complaints Actuals Vs Glidepath,SVC_NTZ_PRD_CSA_TBS,No,Hyper,BPE - Complaints
+NEO - CSA,CSA113 - Complaints Actuals Vs Glidepath,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA114 - WO ID Crosscheck Dashboard,Brenden Brain,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSA115 - Aged VMB,Brenden Brain,No,Postgres,Tableau Events
+NEO - CSA,CSA115 - Aged VMB,Brenden Brain,No,Redshift,CSA A05 - Aged Incidents
+NEO - CSA,CSA115 - Aged VMB,Brenden Brain,No,Redshift,CSA A05A - Aged and NI with Worklog Notes
+NEO - CSA,CSA117 - Complaints Open AGED Dashboard,Brendon Riley,No,Hyper,BPE - Complaints
+NEO - CSA,CSA117 - Complaints Open AGED Dashboard,Brendon Riley,No,Hyper,BPE - Open Complaints
+NEO - CSA,CSA117 - Complaints Open AGED Dashboard,Brendon Riley,No,Postgres,Tableau Events
+NEO - CSA,CSA118 - CA&R Customer Survey Results,Brendon Riley,No,Hyper,CSAxx - CEC Survey Results v.02
+NEO - CSA,CSA118 - CA&R Customer Survey Results,Brendon Riley,No,Hyper,CSAxx Critical Services CSAT
+NEO - CSA,CSA118 - CA&R Customer Survey Results,Brendon Riley,No,Postgres,Tableau Events
+NEO - CSA,CSA119 - Reporting Case Manager AGED Dashboard,Brendon Riley,No,Hyper,BPE - Complaints
+NEO - CSA,CSA119 - Reporting Case Manager AGED Dashboard,Brendon Riley,No,Hyper,BPE - Open Complaints
+NEO - CSA,CSA119 - Reporting Case Manager AGED Dashboard,Brendon Riley,No,Postgres,Tableau Events
+NEO - CSA,CSA120 - FW LTSS Rejections,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA,CSA120 - FW LTSS Rejections,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSAxx - SAOC Utilisation Dashboard,Chintan Gatecha,No,Hyper,Utilisation Datasource
+NEO - CSA,CSAxx - V&C Insights Pack,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A11S - Incident
+NEO - CSA,CSAxx - V&C Insights Pack,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA,CSAxx - V&C Insights Pack,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA,RSP NFF DAILY UPDATE,Chintan Gatecha,No,Hyper,RSP_NFF
+NEO - CSA (test),(Draft) Quality 3.0 Scorecard,Henry Mok,No,Hyper,CSAxx - CSA Quality Evaluations
+NEO - CSA (test),(Draft) Quality 3.0 Scorecard,Henry Mok,No,Postgres,Tableau Events
+NEO - CSA (test),(Draft) Quality 3.0 Scorecard,Henry Mok,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA (test),Benefits Realisation Extraction Workbook,Chintan Gatecha,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA (test),BPE - Truck Roll Driver Tree,Indie Ching,No,Dataengine,TR Driver Tree Business Rules Extract
+NEO - CSA (test),BPE - Truck Roll Driver Tree,Indie Ching,No,Dataengine,TR Driver Tree Exclusions Extract
+NEO - CSA (test),BPE - Truck Roll Driver Tree,Indie Ching,No,Hyper,Truck Roll Driver Tree
+NEO - CSA (test),CC104 - Key Metrics LLD - Test,Rahul Singh,No,Postgres,Tableau Events
+NEO - CSA (test),CSA - FW LTSS Rejections_UAT,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA (test),CSA - FW LTSS Rejections_UAT,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),CSA - FW LTSS Rejections_UAT v2,SVC_NTZ_PRD_CSA_TBS,No,Postgres,Tableau Events
+NEO - CSA (test),CSA - Incident Status Lookup Tool_UAT,Chintan Gatecha,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),CSA EA00 - Exceed Scorecard,Chintan Gatecha,No,Hyper,CDO_CSA_Exceed_Metrics
+NEO - CSA (test),CSA46 - Agent Interactions Dashboard,Rahul Singh,No,Postgres,Tableau Events
+NEO - CSA (test),CSA46 - Agent Interactions Dashboard,Rahul Singh,No,Postgres,Tableau View Stats
+NEO - CSA (test),CSA46 - Agent Interactions Dashboard,Rahul Singh,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - CSA (test),CSA46 - Agent Interactions Dashboard,Rahul Singh,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - CSA (test),CSA46 - Agent Interactions Dashboard,Rahul Singh,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - CSA (test),CSA46 - Agent Interactions Dashboard,Rahul Singh,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA (test),CSA57 - RSP Assurance L3 Escalations Main Dashboard UAT,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA (test),CSA57 - RSP Assurance L3 Escalations Main Dashboard UAT,Chintan Gatecha,No,Redshift,CSA A11b - Incidents and Cases
+NEO - CSA (test),CSA67 - Telstra Continuity Report,Henry Mok,No,Hyper,CSAxx - Telstra Continuity Appointment Data
+NEO - CSA (test),CSA67 - Telstra Continuity Report,Henry Mok,No,Postgres,Tableau Events
+NEO - CSA (test),CSA120 - FW LTSS Rejections_UAT,Mari Len Villaflores,No,Postgres,Tableau Events
+NEO - CSA (test),CSA120 - FW LTSS Rejections_UAT,Mari Len Villaflores,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),CSAXX - 01 Team Huddle VMB V1,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO - CSA (test),CSAXX - 01 Team Huddle VMB V1,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),CSAXX - 01 Team Huddle VMB V1,SVC_NTZ_PRD_CSA_TBS,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA (test),CSAXX - 01 Team Huddle VMB V1,SVC_NTZ_PRD_CSA_TBS,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - CSA (test),CSAxx - COVID-19 Incidents,Israel Hoffmann,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO - CSA (test),CSAxx - EU Delay Analysis,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA (test),CSAxx - Field Metrics - Repeats and Net Rejections,Henry Mok,No,Postgres,Tableau Events
+NEO - CSA (test),CSAxx - Field Metrics - Repeats and Net Rejections,Henry Mok,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),CSAxx - FW Migration Data,Sayantan Sen,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - CSA (test),CSAxx - MDF Tagging Incidents,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - CSA (test),CSAxx - RFT Unadjusted_UAT,Mari Len Villaflores,No,Postgres,Tableau Events
+NEO - CSA (test),CSAxx - RFT Unadjusted_UAT,Mari Len Villaflores,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),CSAxx - RSP CSA66 Pending RSP Hrs,Chintan Gatecha,No,Postgres,Tableau Events
+NEO - CSA (test),CSAxx - SAOC Utilisation Dashboard,Chintan Gatecha,No,Hyper,Utilisation Datasource
+NEO - CSA (test),CSAxx - Telstra Complaints and services,Henry Mok,No,Hyper,BPE - Complaints
+NEO - CSA (test),CSAxx - Telstra Complaints and services,Henry Mok,No,Hyper,CSAxx - Telstra Complaints per 100 Services
+NEO - CSA (test),CSAxx - Telstra Complaints and services,Henry Mok,No,Hyper,CSAxx - Telstra Complaints Raised
+NEO - CSA (test),CSAxx - V&C Insights Pack,Mari Len Villaflores,No,Redshift,CSA A11S - Incident
+NEO - CSA (test),CSAxx - V&C Insights Pack,Mari Len Villaflores,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),CSAxx - V&C Insights Pack,Mari Len Villaflores,No,Redshift,CSA A27 - Appointments Only
+NEO - CSA (test),CSAxx - VC RSP Escalations,Chintan Gatecha,No,Redshift,CSA A11b - Incidents and Cases
+NEO - CSA (test),CSAxx - VC_RSP_Escalation,Navabharathi Chintanapalli,No,Hyper,VC RSP Escalation (Intraday)
+NEO - CSA (test),CSAXXX - Exceed LLDs from FLD A11Sm,David Griffiths,No,Redshift,FLD A11Sm - LLD CSA Exceed (except Open)
+NEO - CSA (test),CSAXXX - Exceed LLDs from FLD A11Sm,David Griffiths,No,Redshift,FLD A11Sm - LLD CSA Exceed (Open Only)
+NEO - CSA (test),Monthly TR data for Finance,Rahul Singh,No,Redshift,CSA A14H - Inc - Wor
+NEO - CSA (test),Monthly TR data for Finance,Rahul Singh,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - CSA (test),Monthly Truck Roll WO Level,Rahul Singh,No,Postgres,Tableau Events
+NEO - CSA (test),Monthly Truck Roll WO Level,Rahul Singh,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field,Field Report Portal,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field,Field Report Portal,Chandra Puli,Yes,Excel-direct,Field Report Links
+NEO – Field,Field Report Portal,Chandra Puli,Yes,Federated,Field Portal Scorecard V2.0
+NEO – Field,FLD01 - On The Day SDP Performance Dashboard,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD02 - On The Day Performance Detail - Trend & LLD,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD03 -  09 OTD WO Management Dashboard,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD03 - 12 Real Time IWF WO Scheduled / Command Centre,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD03 – 01 OTD Real Time Performance Dashboard (Connect),Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD03 – 05 OTD Real Time Performance Dashboard (Fix),Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD03 – 10 OTD Real Time Performance Dashboard (Connect)With Filters,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD04 - OTD Misses Deep Dive Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD05 - Field Technician Performance,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD05 - Field Technician Performance,Pradeepa Venkatswamy,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field,FLD06 - Held Remediation Dashboard,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD07 - Assurance Incident Tree,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD10 - RegionCo Dashboard,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field,FLD10 - RegionCo Dashboard,Gav Pereira,Yes,Excel-direct,Field Report Links
+NEO – Field,FLD10 - RegionCo Dashboard,Gav Pereira,Yes,Federated,Field Portal Scorecard V2.0
+NEO – Field,FLD11 - M1 - Appointments Offered Within SLA,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field,FLD11 - M1 - Appointments Offered Within SLA,Chandra Puli,No,Redshift,FLD A10mb - Appointment
+NEO – Field,FLD15 - OTD WO Scheduled - Forward View,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field,FLD16 - Internal Workforce Performance,Keaboka Molebatsi,No,Hyper,CFS FE List
+NEO – Field,FLD16 - Internal Workforce Performance,Keaboka Molebatsi,No,Hyper,CFS FE Planned Leave
+NEO – Field,FLD16 - Internal Workforce Performance,Keaboka Molebatsi,No,Hyper,CFS_Streamline_FE Source
+NEO – Field,FLD16 - Internal Workforce Performance,Keaboka Molebatsi,No,Hyper,CFS_Streamline_Source_Data
+NEO – Field,FLD16 - Internal Workforce Performance,Keaboka Molebatsi,No,Hyper,Job Data Extract - Future Due Dates
+NEO – Field,FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field,FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field,FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field,FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field,FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,No,Redshift,CSA A27 - Appointments Only
+NEO – Field,FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,Yes,Netezza,GENESYS_TRIAGE
+NEO – Field,FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,Yes,Netezza,WBA Appointment Performance Reporting (Conformed View) Extract
+NEO – Field,FLD19 - OTD by Access Seeker,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD24 - Tech On-Site Within Appt Time Slot,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD26 - HFC PreScope Performance,Keaboka Molebatsi,No,Postgres,Tableau Events
+NEO – Field,FLD27 -  Aged vs Non Aged OTD Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD29 - ATD Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD30 - Operations - Field Scorecard,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field,FLD32 - OTD Report,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD37 - Mismatch Report(ORD/INC Closed REM WO Open),Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD38 - Incorrect Skillset Report,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD39  - Regional Dashboard,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field,FLD39  - Regional Dashboard,Gav Pereira,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field,FLD40 – Precall Performance Report,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field,FLD40 – Precall Performance Report,Tajammul Mohammed,Yes,Redshift,FLD A41m - Precall Extract
+NEO – Field,FLD41 - M3 - No Resource Available Dashboard,Pradeepa Venkatswamy,No,Hyper,Field Target Extract
+NEO – Field,FLD41 - M3 - No Resource Available Dashboard,Pradeepa Venkatswamy,No,Hyper,LTSS M3 Data Source
+NEO – Field,FLD41 - M3 - No Resource Available Dashboard,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field,FLD42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Chandra Puli,No,Redshift,CSA A27 - Appointments Only
+NEO – Field,FLD42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Chandra Puli,No,Redshift,FLD A10ra - Ord - Inc - Apt - Loc -Pri
+NEO – Field,FLD43 - HFC Use Program Compliance for Fix,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD44 - Connects With a Fault Raised in First 14 & 28 Days,Doris Rhodes,No,Hyper,Faults Within 10 Days_DDE06_SRWO
+NEO – Field,FLD44 - Connects With a Fault Raised in First 14 & 28 Days,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD45 - Next 7 Days Appt with Incorrect Addr,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD46 - Tech On Site Dashboard,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field,FLD47 - IWF Network Restoration Performance Report,Keaboka Molebatsi,No,Hyper,OMN_BO_WWM_QTQ_Combined
+NEO – Field,FLD47 - IWF Network Restoration Performance Report,Keaboka Molebatsi,No,Postgres,Tableau Events
+NEO – Field,FLD48 - HFC SC21 Pre-scope with OTD Performance,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD49 -TCS Terminal Status WOR Monthly Report,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD50 - Field Headline Report,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field,FLD50 - Field Headline Report,Gav Pereira,Yes,Federated,FLD50 - Headline Metrics
+NEO – Field,FLD51 - FTTC DPU/NCD and HFC Modem Swap,Sayantan Sen,No,Hyper,FLDxx - Inventory Utilization Reduction
+NEO – Field,FLD51 - FTTC DPU/NCD and HFC Modem Swap,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD52 - OTD Withdrawn WO with IWF,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD53 - Field Resource Plan,Pradeepa Venkatswamy,No,Hyper,FLD500_Anaplan_FRP_DS
+NEO – Field,FLD53 - Field Resource Plan,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD54 - WO Acknowledge & Terminal Status,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field,FLD56-RegionCo View Fault within 14/28 Days,Doris Rhodes,No,Hyper,Faults Within 10 Days_DDE06_SRWO
+NEO – Field,FLD56-RegionCo View Fault within 14/28 Days,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD57 - Customer Complaints - Install Quality Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field,FLD58 - F404 % Repeat Faults (Truck Rolls) within 28 Days,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD59 - Maintain Network Report,Keaboka Molebatsi,No,Netezza,NSO 10m - Asset Routine Maintenance Work Order Activity
+NEO – Field,FLD59 - Maintain Network Report,Keaboka Molebatsi,No,Postgres,Tableau Events
+NEO – Field,FLD63 - Capacity Utilization Dashboard,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD63 - Capacity Utilization Dashboard,Pradeepa Venkatswamy,No,Redshift,FLD A30 - Capacity
+NEO – Field,FLD65 - Root Cause Analysis of PRD Change (Connect),Sayantan Sen,No,Redshift,CC A40 - Order Comments
+NEO – Field,FLD66- In Premises Wiring Optimization (IPWO),Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD67 - Quality Management Plan,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD68 - Orders and Incidents held due to COVID-19,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field,FLD69 - Open INC Map,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD69 - Open INC Map,Sayantan Sen,No,Redshift,CSA A05 - Aged Incidents
+NEO – Field,FLD70 - Health Emergency Dashboard,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD71 - Field Resource Plan (Remediation),Pradeepa Venkatswamy,No,Hyper,FLD500a_FRP_Remediation_DS
+NEO – Field,FLD71 - Field Resource Plan (Remediation),Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD73 - Intra-Day Precall Performance Report,Keaboka Molebatsi,No,Postgres,Tableau Events
+NEO – Field,FLD74 - WO to Agreed Capacity Utilization,Pradeepa Venkatswamy,No,Hyper,FLD502_Agreed Capacity_vs_Workorder_DS
+NEO – Field,FLD74 - WO to Agreed Capacity Utilization,Pradeepa Venkatswamy,No,Hyper,FLD502a_AgreedCapacity_WorkOrder_Detail_DS
+NEO – Field,FLD74 - WO to Agreed Capacity Utilization,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field,FLD100 - Report Insights Summary,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field,FLD100 - Report Insights Summary,Sayantan Sen,Yes,Postgres,Tableau HTTP Requests - Incremental Extract
+NEO – Field (test),Archived - FLD17 - OTD NRA DP Performance,Sayantan Sen,No,Hyper,PAI_OTD_SDP_Performance
+NEO – Field (test),Archived - FLD17 - OTD NRA DP Performance,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),Archived - FLD28 - OTD Process Transformation,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),DAVE_TEST_FLD18 - NEO Field Scorecard Metric Summary,David Griffiths,No,Hyper,PRD_OTD_View
+NEO – Field (test),DAVE_TEST_FLD18 - NEO Field Scorecard Metric Summary,David Griffiths,No,Postgres,Tableau Events
+NEO – Field (test),DAVE_TEST_FLD18 - NEO Field Scorecard Metric Summary,David Griffiths,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),DAVE_TEST_FLD18 - NEO Field Scorecard Metric Summary,David Griffiths,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),DAVE_TEST_FLD18 - NEO Field Scorecard Metric Summary,David Griffiths,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),DAVE_TEST_FLD18 - NEO Field Scorecard Metric Summary,David Griffiths,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),DAVE_TEST_FLD18 - NEO Field Scorecard Metric Summary,David Griffiths,Yes,Netezza,GENESYS_TRIAGE
+NEO – Field (test),Exceed - MTTR E40,Tajammul Mohammed,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),F229 - Right First Time_Test (ref cc165),Gav Pereira,No,Hyper,BPE - Open Complaints
+NEO – Field (test),F229 - Right First Time_Test (ref cc165),Gav Pereira,No,Hyper,CC Complaints - Ins and Outs
+NEO – Field (test),F229 - Right First Time_Test (ref cc165),Gav Pereira,No,Hyper,CC Complaints - LLD
+NEO – Field (test),F229 - Right First Time_Test (ref cc165),Gav Pereira,No,Hyper,RA_AMBER_ORDERS_OTD_EXTRACT
+NEO – Field (test),F229 - Right First Time_Test (ref cc165),Gav Pereira,No,Postgres,Tableau Events
+NEO – Field (test),F229 - Right First Time_Test (ref cc165),Gav Pereira,Yes,Netezza,WBA Appointment Performance Reporting (Conformed View) Extract
+NEO – Field (test),F229 - Right First Time_Test (ref cc165),Gav Pereira,Yes,Netezza,WBA Service Order Reporting (Conformed View) Extract
+NEO – Field (test),Faults Within 10 Days,Jose Alex,No,Hyper,Faults Within 10 Days_DDE06_SRWO
+NEO – Field (test),Field_Metrics,Gav Pereira,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),Field_Metrics,Gav Pereira,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),Field_Metrics,Gav Pereira,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),Field_Metrics,Gav Pereira,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),Field_Metrics,Gav Pereira,Yes,Netezza,WBA Appointment Performance Enhanced
+NEO – Field (test),Field_Metrics_LLD,Sayantan Sen,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),Field_Metrics_LLD,Sayantan Sen,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),Field_Metrics_LLD,Sayantan Sen,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),Field_Metrics_LLD,Sayantan Sen,Yes,Netezza,WBA Appointment Performance Reporting (Conformed View) Extract
+NEO – Field (test),Field_Metrics_MTTR,Gav Pereira,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),Field_Metrics_WBA_Test,Raj C R,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),Field_Metrics_WBA_Test,Raj C R,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),Field_Metrics_WBA_Test,Raj C R,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),Field_Metrics_WBA_Test,Raj C R,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),Field_Metrics_WBA_Test,Raj C R,Yes,Netezza,WBA Appointment Performance Enhanced
+NEO – Field (test),Field_Metrics_WBA_Test_JobsCompleteIncomplete,Raj C R,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),Field_Metrics_WBA_Test_JobsCompleteIncomplete,Raj C R,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),Field_Metrics_WBA_Test_JobsCompleteIncomplete,Raj C R,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),Field_Metrics_WBA_Test_JobsCompleteIncomplete,Raj C R,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),Field_Metrics_WBA_Test_JobsCompleteIncomplete,Raj C R,Yes,Netezza,WBA Appointment Performance Enhanced
+NEO – Field (test),FLD A11Sm - Orders and Incidents - UAT,David Griffiths,No,Redshift,FLD A11Sm - Orders and Incidents - UAT
+NEO – Field (test),FLD xx - TR Tableau Metrics,Jose Alex,No,Postgres,Tableau Events
+NEO – Field (test),FLD01 - On The Day SDP Performance Dashboard,Jatinder Sharma,No,Postgres,Tableau Events
+NEO – Field (test),FLD04xx - OTD Misses Deep Dive Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLD06 - Held Remediation Dashboard,Sameer Ahmed,No,Postgres,Tableau Events
+NEO – Field (test),FLD06 - Held Remediation Dashboard Test,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field (test),FLD06xx - Red Order In/Out Dashboard,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLD11 - M1 - Appointments Offered Within SLA_AllAppts,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLD11 - M1 - Appointments Offered Within SLA_AllAppts,Chandra Puli,No,Redshift,FLD A10mb - Appointment
+NEO – Field (test),FLD18 - NEO Daily Field Scorecard,Tajammul Mohammed,No,Hyper,PRD_OTD_View
+NEO – Field (test),FLD18 - NEO Daily Field Scorecard,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field (test),FLD18 - NEO Daily Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),FLD18 - NEO Daily Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),FLD18 - NEO Daily Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),FLD18 - NEO Daily Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),FLD18 - NEO Daily Field Scorecard,Tajammul Mohammed,Yes,Netezza,GENESYS_TRIAGE
+NEO – Field (test),FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field (test),FLD18 - NEO Field Scorecard Metric Summary,Tajammul Mohammed,Yes,Netezza,WBA Appointment Performance Reporting (Conformed View) Extract
+NEO – Field (test),FLD23 - HFC SC21 Prescope Terminal Report - Cloud Source,Keaboka Molebatsi,No,Postgres,Tableau Events
+NEO – Field (test),FLD30 - NEO Field Scorecard Targets,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field (test),FLD30 - Operations - Field Scorecard,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field (test),FLD30 - Operations Field Scorecard  - Test Run,Rahul Singh,No,Postgres,Tableau Events
+NEO – Field (test),FLD36 - Network At Risk Performance Dashboards(HFC),Laura Drury,Yes,Netezza,NEO Network at Risk
+NEO – Field (test),FLD42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Jatinder Sharma,No,Hyper,Field Target Extract
+NEO – Field (test),FLD42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Jatinder Sharma,No,Postgres,Tableau Events
+NEO – Field (test),FLD42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Jatinder Sharma,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),FLD44 - Connects With a Fault Raised in First 14 & 28 Days,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLD50 - Field Headline Report,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field (test),FLD51 - FTTC DPU/NCD and HFC Modem Swap,Sayantan Sen,No,Hyper,FLDxx - Inventory Utilization Reduction
+NEO – Field (test),FLD51 - FTTC DPU/NCD and HFC Modem Swap,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLD51xx - FTTC DPU/NCD and HFC Modem Swap,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLD54 - WO Acknowledge & Terminal Status,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLD68 - Orders and Incidents held due to COVID-19,Sameer Ahmed,No,Postgres,Tableau Events
+NEO – Field (test),FLD69 - Open INC Map (real time),Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLD69 - Open INC Map (real time),Sayantan Sen,No,Redshift,CSA A05 - Aged Incidents
+NEO – Field (test),FLD69 - Open INC Map (real time)_No Extract,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLD69 - Open INC Map (real time)_No Extract,Sayantan Sen,No,Redshift,CSA A05 - Aged Incidents
+NEO – Field (test),FLDxx - % Missed Appointment Dashboard (WBA)_Updated,Sayantan Sen,Yes,Netezza,WBA Appointment Performance Reporting (Conformed View) Extract
+NEO – Field (test),"FLDxx - AIM,CFT Audit Forecast",Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Appointments (M1 & M1b),Keaboka Molebatsi,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),"FLDxx - Capacity Utilization Dashboard (PA,CA,AHA)",Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),"FLDxx - Capacity Utilization Dashboard (PA,CA,AHA)",Pradeepa Venkatswamy,No,Redshift,FLD A30 - Capacity
+NEO – Field (test),FLDxx - Connects With a Fault Raised in First 14 & 28 Days,Pradeepa Venkatswamy,No,Hyper,Faults Within 10 Days_DDE06_SRWO
+NEO – Field (test),FLDxx - Connects With a Fault Raised in First 14 & 28 Days,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - COVID-19 Dashbaord,Sayantan Sen,No,Redshift,FLD A13 - Work Order Log Notes
+NEO – Field (test),FLDxx - CSA Daily Comments,Sayantan Sen,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),FLDXX - CSA51 - Aged Incidents -F219a Updated,Tajammul Mohammed,No,Redshift,CSA A05 - Aged Incidents
+NEO – Field (test),FLDxx - Executive Insights,Tajammul Mohammed,Yes,Excel-direct,Field Report Links
+NEO – Field (test),FLDxx - Executive Insights,Tajammul Mohammed,Yes,Federated,Field Portal Scorecard V2.0
+NEO – Field (test),FLDxx - Field - Appointments and Missed Appointments,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Field - Appointments and Missed Appointments,Tajammul Mohammed,Yes,Netezza,WBA Appointment Performance Enhanced
+NEO – Field (test),FLDxx - Field Resource Plan - FTE Actual,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Field Technician Performance,Rahul Singh,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX - FSC_LLD,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - FSD Realtime Workforce Calendar,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - FTTC DPU Swap League Ladder,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - FTTC DPU/NCD and HFC Modem Swap,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - FW and LTSS Physical Orders Completed,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX - HFC and FTTC Daily Capacity Report,Chandra Puli,No,Redshift,FLD A30 - Capacity
+NEO – Field (test),FLDXX - HFC Connect Daily Report,Chandra Puli,No,Hyper,FLD500_Anaplan_FRP_v7.2 Extract (2)
+NEO – Field (test),FLDXX - HFC Connect Daily Report,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX - HFC Connect Daily Report,Chandra Puli,No,Redshift,FLD A30 - Capacity
+NEO – Field (test),FLDxx - HFC Daily 11,Morty Jalali,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Incorrect assigned WOC report with Site Permit Required,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Open INC (excl NI Flag or RM) Map,Sayantan Sen,No,Redshift,CSA A05 - Aged Incidents
+NEO – Field (test),FLDxx - Quality Management Plan,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Real Time Network Incidents and Impact to Service Incident,Sayantan Sen,No,Redshift,CSA A05A - Aged and NI with Worklog Notes
+NEO – Field (test),FLDxx - Root Cause Analysis of PRD Change (Connect),Sayantan Sen,No,Redshift,CC A40 - Order Comments
+NEO – Field (test),FLDXX - Tech-onsite Details,Jose Alex,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Test - FLD18 - NEO Field Scorecard,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - Test - FLD18 - NEO Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),FLDxx - Test - FLD18 - NEO Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),FLDxx - Test - FLD18 - NEO Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),FLDxx - Test - FLD18 - NEO Field Scorecard,Tajammul Mohammed,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),FLDxx - Test - FLD18 - NEO Field Scorecard,Tajammul Mohammed,Yes,Netezza,GENESYS_TRIAGE
+NEO – Field (test),FLDxx - Test - FLD18 - NEO Field Scorecard,Tajammul Mohammed,Yes,Netezza,WBA Appointment Performance Reporting (Conformed View) Extract
+NEO – Field (test),FLDxx - WO Appt Created On The Day Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - WO Appt Created On The Day Dashboard Beta,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - WO Full Address,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx - WO to Agreed Capacity Utilization,Pradeepa Venkatswamy,No,Hyper,FLD502_Agreed Capacity_vs_Workorder_DS
+NEO – Field (test),FLDxx - WO to Agreed Capacity Utilization,Pradeepa Venkatswamy,No,Hyper,FLD502a_AgreedCapacity_WorkOrder_Detail_DS
+NEO – Field (test),FLDxx - WO to Agreed Capacity Utilization,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx01 - On The Day SDP Performance Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx04 - OTD Misses Deep Dive Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx54 - WO Acknowledge & Terminal Status,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx57 - Customer Complaints - Install Quality Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx57 - Monthly Customer Complaints - Install Quality Dashboard,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_01 - On The Day SDP Performance Dashboard,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_01 - On The Day SDP Performance Dashboard TEST,Jatinder Sharma,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx_04 - 12 WK OTD Misses,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx_04 - OTD Misses Deep Dive Dashboard Monthly,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_04 - OTD Misses Deep Dive Dashboard Test,Jatinder Sharma,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_11 - M1 - Appointments Offered Within SLA,Chandra Puli,No,Hyper,LTSS M1 Data Source
+NEO – Field (test),FLDXX_11 - M1 - Appointments Offered Within SLA,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_11 - M1 - Appointments Offered Within SLA,Chandra Puli,No,Redshift,FLD A10mb - Appointment
+NEO – Field (test),FLDxx_24 - Tech On-Site Within Appt Time Slot,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_30 - NEO Field Scorecard,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_30 - NEO Field Scorecard,Chandra Puli,Yes,Federated,FLDXX_30 - NEO Field Scorecard DS
+NEO – Field (test),FLDXX_42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Chandra Puli,No,Hyper,Field Target Extract
+NEO – Field (test),FLDXX_42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Chandra Puli,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),FLDXX_42 - M1b - Appointments Offered Within SLA (Fix) Dashboard,Chandra Puli,No,Redshift,FLD A10ra - Ord - Inc - Apt - Loc -Pri
+NEO – Field (test),FLDxx_44&56 - Connects With a Fault Raised in First 14 & 28 Days,Doris Rhodes,No,Hyper,Faults Within 10 Days_DDE06_SRWO
+NEO – Field (test),FLDxx_44&56 - Connects With a Fault Raised in First 14 & 28 Days,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_46 - Tech On Site Dashboard,Jatinder Sharma,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_54 - WO Acknowledge & Terminal Status,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_54 - WO Acknowledge & Terminal Status,Chandra Puli,No,Redshift,FLD A10ra - Ord - Inc - Apt - Loc -Pri
+NEO – Field (test),FLDxx_54- Allocate - Terminal&AckStatus,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_69 - Orders and Incidents held due to COVID-19,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_100 - Report Insights Summary,Chandra Puli,No,Postgres,Tableau Events
+NEO – Field (test),FLDXX_100 - Report Insights Summary,Chandra Puli,Yes,Postgres,Tableau HTTP Requests - Incremental Extract
+NEO – Field (test),FLDxx_Partner Strategy & Performance Complaints Draft,Sayantan Sen,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx-Coordinated Appointments,Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FLDxx-In-Home Wiring-New,Pradeepa Venkatswamy,No,Hyper,FLD600_IPWO_DS
+NEO – Field (test),FLDxxx_04 - Pack OTD Misses Deep Dive Dashboard Monthly,Doris Rhodes,No,Postgres,Tableau Events
+NEO – Field (test),Forecast to Wo Scheduled (All measures),Pradeepa Venkatswamy,No,Hyper,FLD500_Anaplan_FRP_DS
+NEO – Field (test),Forecast to Wo Scheduled (All measures),Pradeepa Venkatswamy,No,Postgres,Tableau Events
+NEO – Field (test),FSC - F102 and F106,Patrick Taylor,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),FSC_Connect_LLD_Weekly,Rahul Singh,Yes,Netezza,WBA Appointment Performance Enhanced
+NEO – Field (test),HFC Governance FS&D Dashboards,Jonathan Maybloom,No,Hyper,Open NAR and TOW Status
+NEO – Field (test),HFC SC21 Prescope Terminal Report,Keaboka Molebatsi,No,Hyper,Prescoping Terminal Reporting
+NEO – Field (test),Insights_Graphs_Automated_V1,Sayantan Sen,Yes,Excel-direct,Score Card
+NEO – Field (test),iPhone OTD,Pritpal Walia,No,Postgres,Tableau Events
+NEO – Field (test),MetricSummary-Crosstab,Gav Pereira,No,Postgres,Tableau Events
+NEO – Field (test),New FLD51 - Swap Dashboard,Sayantan Sen,No,Hyper,FLDxx - Inventory Utilization Reduction
+NEO – Field (test),OTD Proactive Reschedules - BTD NRA,Tim Dang,No,Hyper,PAI_OTD_SDP_Performance
+NEO – Field (test),OTD Proactive Reschedules - BTD NRA,Tim Dang,No,Postgres,Tableau Events
+NEO – Field (test),Pritpal - Capacity Committed Agreed,Pritpal Walia,No,Postgres,Tableau Events
+NEO – Field (test),SLT Headline Graphics,Keaboka Molebatsi,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),SLT Headline Graphics,Keaboka Molebatsi,Yes,Excel-direct,Score Card
+NEO – Field (test),SLT Headline Graphics,Keaboka Molebatsi,Yes,Netezza,WBA Appointment Performance Enhanced
+NEO – Field (test),Taj Test - FLD40 – Precall Performance Report,Tajammul Mohammed,No,Postgres,Tableau Events
+NEO – Field (test),Taj Test - FLD40 – Precall Performance Report,Tajammul Mohammed,Yes,Redshift,FLD A41m - Precall Extract
+NEO – Field (test),Test - FLDXX - Weekly Headlines FY2020,Keaboka Molebatsi,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),Test - FLDXX - Weekly Headlines FY2020,Keaboka Molebatsi,Yes,Netezza,WBA Appointment Performance Reporting (Conformed View) Extract
+NEO – Field (test),testfld18,David Griffiths,No,Hyper,PRD_OTD_View
+NEO – Field (test),testfld18,David Griffiths,No,Postgres,Tableau Events
+NEO – Field (test),testfld18,David Griffiths,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO – Field (test),testfld18,David Griffiths,No,Redshift,CSA A14H - Inc - Wor
+NEO – Field (test),testfld18,David Griffiths,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO – Field (test),testfld18,David Griffiths,No,Redshift,CSA A27 - Appointments Only
+NEO – Field (test),testfld18,David Griffiths,Yes,Netezza,GENESYS_TRIAGE
+NEO – Field (test),WO Scheduled (BTD TDS) - NRA,Tim Dang,No,Dataengine,PAI_WO_SCHEDULED
+NEO - Customer Connections,BOM - Weekly Report,Divya Srivastava,No,Hyper,BTDDES01 - Order and Fallout Received - Detailed
+NEO - Customer Connections,BOM - Weekly Report,Divya Srivastava,No,Hyper,TCS Performance Metrics Data Source_1_2
+NEO - Customer Connections,BOM - Weekly Report,Divya Srivastava,No,Hyper,TCS Performance Metrics Data Source_5
+NEO - Customer Connections,BOM - Weekly Report,Divya Srivastava,No,Hyper,TCS Performance Metrics Data Source_6_7
+NEO - Customer Connections,BOM - Weekly Report,Divya Srivastava,No,Hyper,TCS Performance Metrics Data Source_9
+NEO - Customer Connections,BOM - Weekly Report,Divya Srivastava,No,Netezza,DCS - Work Order Creation
+NEO - Customer Connections,CC000 - Real Time Net Premise Activations,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC003 - FTTC Inflight Orders,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC003 - FTTC Inflight Orders,Cecilia Li,Yes,Netezza,LOMS Data
+NEO - Customer Connections,CC004 - CC RealTime - Receive & Assign - Design Customer Services,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC005 - Aged Reporting,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC006 - PNI vs HFL SC Mismatch and Shortfalls,Israel Hoffmann,Yes,Netezza,MOR - SRI vs PNI FTTX Mismatch
+NEO - Customer Connections,CC008 - Execute - Call-backs Detailed,SVC_HFC_NETEZZA_PRD,No,Netezza,CAF.Genesys Interactions with Work Requests & Roster
+NEO - Customer Connections,CC010 - DEV - Triage Call Reporting,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC010 - DEV - Triage Call Reporting,Cecilia Li,Yes,Netezza,GENESYS_TRIAGE_ETOE
+NEO - Customer Connections,CC010 - DEV - Triage Call Reporting,Cecilia Li,Yes,Netezza,GENESYS_TRIAGE_HFC_TEMP
+NEO - Customer Connections,CC011 - Genesys Performance Reports,Israel Hoffmann,Yes,Netezza,Genesys Activations App Interactions
+NEO - Customer Connections,CC011 - Genesys Performance Reports,Israel Hoffmann,Yes,Netezza,Genesys Agent State Detail
+NEO - Customer Connections,CC013 - Held Remediation,Tim Scerri,No,Hyper,PRD_OTD_View
+NEO - Customer Connections,CC013 - Held Remediation,Tim Scerri,No,Hyper,PRD_OTD_View_Weekly_History
+NEO - Customer Connections,CC013 - Held Remediation,Tim Scerri,No,Netezza,Cycle_Times
+NEO - Customer Connections,CC013 - Held Remediation,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC013 - Held Remediation,Tim Scerri,Yes,Netezza,PRD Health 
+NEO - Customer Connections,CC013 - Held Remediation,Tim Scerri,Yes,Netezza,RG_HISTORY (NBN_DDE_14.RG_HISTORY) (BIA01LB)
+NEO - Customer Connections,CC017 - Triage - Callbacks Detailed,SVC_HFC_NETEZZA_PRD,No,Netezza,CAF.Genesys Interactions with Work Requests & Roster
+NEO - Customer Connections,CC018 - Eliminating aged orders and recovering customer experience,Tim Dang,No,Netezza,NSO 01 - Order to Activation
+NEO - Customer Connections,CC018 - Eliminating aged orders and recovering customer experience,Tim Dang,No,Netezza,NSO 09 – Location Footprint List – Current
+NEO - Customer Connections,CC018 - Eliminating aged orders and recovering customer experience,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC027 - Tech-on-Site (Truck Rolls) Datasource,Carl Kruckow,Yes,Netezza,NSO 02 - WWM Tech On Site - Detail
+NEO - Customer Connections,CC028 - HFC Performance Dashboard - Relaunch,Daham Pilapitiya,No,Dataengine,HFC Relaunch AVC Data
+NEO - Customer Connections,CC028 - HFC Performance Dashboard - Relaunch,Daham Pilapitiya,No,Dataengine,HFC Relaunch OTDA Data
+NEO - Customer Connections,CC028 - HFC Performance Dashboard - Relaunch,Daham Pilapitiya,No,Dataengine,HFC Relaunch SC Changes
+NEO - Customer Connections,CC028 - HFC Performance Dashboard - Relaunch,Daham Pilapitiya,No,Hyper,Aged
+NEO - Customer Connections,CC028 - HFC Performance Dashboard - Relaunch,Daham Pilapitiya,No,Hyper,PRD_OTD_View
+NEO - Customer Connections,CC028 - HFC Performance Dashboard - Relaunch,Daham Pilapitiya,Yes,Netezza,NEX  - Order and Activation Summary
+NEO - Customer Connections,CC031 - Fallout vs Orders Received,Tim Dang,No,Netezza,BTDDES01 - % Fallout Orders vs Orders Received
+NEO - Customer Connections,CC031 - Fallout vs Orders Received,Tim Dang,No,Netezza,BTDDES01 - % Fallout Orders vs Orders Received - Detailed
+NEO - Customer Connections,CC035 - Business Connections - E&G Performance,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC037 - Allocate - Acknowledged Before Appointment Day,Tim Scerri,Yes,Netezza,CAF KPI 15 Data Source
+NEO - Customer Connections,CC038 - Line Level Details On The DayDashboard,Sayantan Sen,No,Hyper,PAI_OTD_SDP_Performance
+NEO - Customer Connections,CC038 - Line Level Details On The DayDashboard,Sayantan Sen,No,Postgres,Tableau Events
+NEO - Customer Connections,CC039 - Aged Orders - Pending Analysis,Tim Dang,No,Netezza,Manage RSP Prioritisation List
+NEO - Customer Connections,CC039 - Aged Orders - Pending Analysis,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC040 - Allocate - Incoming Calls,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC040 - Allocate - Incoming Calls,Cecilia Li,Yes,Netezza,Genesys Queue Detail
+NEO - Customer Connections,CC043 - R&A - On The Day SDP Performance Dashboard,Divya Srivastava,No,Hyper,PAI_OTD_SDP_Performance
+NEO - Customer Connections,CC046 - Orders at Salesforce Pivot LOC,SVC_HFC_NETEZZA_PRD,No,Hyper,PHP_Salesforcepivot
+NEO - Customer Connections,CC048 - FW & Satellite Fallout WO Report,Carl Kruckow,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - Customer Connections,CC049 - SkyMuster Health Check,Ashraful Islam,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - Customer Connections,CC053 - FTTN - Pair varification issue,Ashish Kumar Bhangdia,No,Hyper,DataHub
+NEO - Customer Connections,CC053 - FTTN - Pair varification issue,Ashish Kumar Bhangdia,No,Hyper,PRD_OTD_View
+NEO - Customer Connections,CC054 - Manage Order Enquiries- MOET,Tim Scerri,No,Hyper,NEOCCPAI-Remedy-OSC-History
+NEO - Customer Connections,CC054 - Manage Order Enquiries- MOET,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC061 - Data - Driver_Passenger Orders list,Tim Dang,No,Netezza,CAF_Driving|Passenger datasource
+NEO - Customer Connections,CC064 - Search Location Dashboard,Carl Kruckow,No,Netezza,NSO 02H - WWM Work Orders with History
+NEO - Customer Connections,CC064 - Search Location Dashboard,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC065 - WO Related Details,Ashish Kumar Bhangdia,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - Customer Connections,CC067 - Battery Setting Case with contacts and state,Tim Dang,No,Netezza,CRM Case Activity (LB)
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Dataengine,Pre-Install - Remedy Response Time
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Hyper,FSD05 - Pre-Install - 1st Connection SC3% - Data Extract
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Hyper,Pre-Install Order Completions After Demand Order Created
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Hyper,Pre-Install PCD History
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Hyper,Pre-Installs Stage One
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Netezza,CRM Case Activity (LB)
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Netezza,CRM Case and Site
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Netezza,NSO 02- WWM All Appointments and Work Orders
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Netezza,NSO 02H - WWM Work Orders with History
+NEO - Customer Connections,CC069 - Pre-Installs - KPI Metrics,Tim Dang,No,Netezza,Remedy Helpdesk SLM Audit Log
+NEO - Customer Connections,CC071 - Telstra all tech initial Appt_Conformed,Carl Kruckow,No,Netezza,NSO 01H - Order to Activation with History Conformed
+NEO - Customer Connections,CC071 - Telstra all tech initial Appt_Conformed,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC074 - Order Snapshot - HFC Recovery Program,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC076 - OTD CM Performance,Ashish Kumar Bhangdia,No,Postgres,Tableau Events
+NEO - Customer Connections,CC079 - FTTX-HFC Complaints Dashboard,Suhali Tandon,No,Hyper,CC- Complaints Data source
+NEO - Customer Connections,CC080 - NEO Headlines – CC Only - Overall - Download Data,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC087 - FW & Satellite Report,Muhammed Tanzilul Karim Khan,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - Customer Connections,CC091 - Validate - Comptel Fallout,Tim Dang,No,Netezza,NSO 01 - Activation Manual Fallout Conformed
+NEO - Customer Connections,CC094 - Daily VMB - MTTC & RFT,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC096 - R&A - WBA Line Level Data,Pragya Chouksey,Yes,Netezza,WBA Service Order Reporting (Conformed View) Extract
+NEO - Customer Connections,CC099 - Work Orders,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC102 - Connect Lists,Ashish Kumar Bhangdia,No,Hyper,DataHub
+NEO - Customer Connections,CC102 - Connect Lists,Ashish Kumar Bhangdia,Yes,Netezza,FTTC Orders
+NEO - Customer Connections,CC103 - MOET Daily Portal Interactions,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC103 - MOET Daily Portal Interactions,Tim Scerri,Yes,Netezza,Genesys MM Agent Interaction Detail Extract
+NEO - Customer Connections,CC104 - Key Metrics LLD,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC108 - Amber Priority,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC110 - R&A - Design Customer Service Dashboard,Divya Srivastava,No,Hyper,BTDDES01 - Order and Fallout Received - Detailed
+NEO - Customer Connections,CC110 - R&A - Design Customer Service Dashboard,Divya Srivastava,No,Hyper,TCS Performance Metrics Data Source_3
+NEO - Customer Connections,CC110 - R&A - Design Customer Service Dashboard,Divya Srivastava,No,Hyper,TCS Performance Metrics Data Source_5
+NEO - Customer Connections,CC110 - R&A - Design Customer Service Dashboard,Divya Srivastava,No,Hyper,TCS Performance Metrics Data Source_9
+NEO - Customer Connections,CC110 - R&A - Design Customer Service Dashboard,Divya Srivastava,No,Hyper,Y2 Receive and Assign LLD
+NEO - Customer Connections,CC110 - R&A - Design Customer Service Dashboard,Divya Srivastava,No,Netezza,DCS - Work Order Creation
+NEO - Customer Connections,CC110 - R&A - Design Customer Service Dashboard,Divya Srivastava,Yes,Netezza,WBA Service Order Reporting (Conformed View) Extract
+NEO - Customer Connections,CC111 - Pre-Installs - Completions Cancellations,Tim Dang,No,Hyper,Pre-Installs - Completions Cancellations
+NEO - Customer Connections,CC115 - Manage MSP Performance- OS-12,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC115 - Manage MSP Performance- OS-12,Tim Scerri,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - Customer Connections,CC115 - Manage MSP Performance- OS-12,Tim Scerri,No,Redshift,Remedy Helpdesk SLM (Redshift)
+NEO - Customer Connections,CC115 - Manage MSP Performance- OS-12,Tim Scerri,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - Customer Connections,CC115 - Manage MSP Performance- OS-12,Tim Scerri,Yes,Netezza,Genesys MM Agent Interaction Detail Extract
+NEO - Customer Connections,CC122 - Manage MSP Performance,Cecilia Li,No,Hyper,TCS Performance Metrics Data Source_1_2
+NEO - Customer Connections,CC122 - Manage MSP Performance,Cecilia Li,No,Netezza,CAF.Genesys Interactions with Work Requests & Roster
+NEO - Customer Connections,CC123 - Aged and MTTC by Contract Area,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC125 - FTTx & HFC Complaints DP Summary,Fletcher McGillivray,No,Hyper,CC- Complaints Data source
+NEO - Customer Connections,CC126 - MSP Performance Metrics 3/4/5/6/7/9/10,Cecilia Li,No,Hyper,TCS Performance Metrics Data Source_3
+NEO - Customer Connections,CC126 - MSP Performance Metrics 3/4/5/6/7/9/10,Cecilia Li,No,Hyper,TCS Performance Metrics Data Source_4
+NEO - Customer Connections,CC126 - MSP Performance Metrics 3/4/5/6/7/9/10,Cecilia Li,No,Hyper,TCS Performance Metrics Data Source_5
+NEO - Customer Connections,CC126 - MSP Performance Metrics 3/4/5/6/7/9/10,Cecilia Li,No,Hyper,TCS Performance Metrics Data Source_6_7
+NEO - Customer Connections,CC126 - MSP Performance Metrics 3/4/5/6/7/9/10,Cecilia Li,No,Hyper,TCS Performance Metrics Data Source_9
+NEO - Customer Connections,CC126 - MSP Performance Metrics 3/4/5/6/7/9/10,Cecilia Li,No,Hyper,TCS Performance Metrics Data Source_10
+NEO - Customer Connections,CC126 - MSP Performance Metrics 3/4/5/6/7/9/10,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC128 - Allocate - Call Queue Performance,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC128 - Allocate - Call Queue Performance,Cecilia Li,Yes,Netezza,Genesys Agent State Detail
+NEO - Customer Connections,CC128 - Allocate - Call Queue Performance,Cecilia Li,Yes,Netezza,Genesys Queue Detail
+NEO - Customer Connections,CC130 - Logical Order Dashboard,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC130 - Logical Order Dashboard,Cecilia Li,Yes,Netezza,Logical Order Datasource
+NEO - Customer Connections,CC131 - Order History Search,Carl Kruckow,No,Netezza,NSO 02H - WWM All Appointments with History
+NEO - Customer Connections,CC131 - Order History Search,Carl Kruckow,No,Netezza,NSO 02H - WWM Work Orders with History
+NEO - Customer Connections,CC131 - Order History Search,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC131 - Order History Search,Carl Kruckow,No,Redshift,CC A40 - Order Comments
+NEO - Customer Connections,CC135 - FTTC RFT and RXT Analysis,Sagar Mehrotra,No,Hyper,M2 RFT DDE06_90D
+NEO - Customer Connections,CC138- Service Portal Comments,Vijay Jaswal,No,Postgres,Tableau Events
+NEO - Customer Connections,CC138- Service Portal Comments,Vijay Jaswal,No,Redshift,CC A40 - Order Comments
+NEO - Customer Connections,CC149 - Connect Metrics That Matter (MTM) Dashboard,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC150 - Order and Activation Dashboard,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC151 - Inflight Orders,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC152 - Daily In-Flight VMB,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections,CC155 - SIK Reporting,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections,CC157 - WIP Health As Per TruckRoll (A11S),Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC160 - Business Orders for SmartEdge Input,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC163 - Inflights Overall Power Point,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC165 - Historical Actuals,Carl Kruckow,No,Hyper,BPE - Open Complaints
+NEO - Customer Connections,CC165 - Historical Actuals,Carl Kruckow,No,Hyper,CC Complaints - Ins and Outs
+NEO - Customer Connections,CC165 - Historical Actuals,Carl Kruckow,No,Hyper,CC Complaints - LLD
+NEO - Customer Connections,CC165 - Historical Actuals,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC165 - Historical Actuals,Carl Kruckow,Yes,Netezza,WBA Service Order Reporting (Conformed View) Extract
+NEO - Customer Connections,CC165 - Historical Actuals,Carl Kruckow,Yes,Netezza,WBA_SERVICE_ORDER_TQRY_EXTRACT
+NEO - Customer Connections,CC166 - Top 100 Aged Orders,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC168 - SkyMuster & FW: Active premises vs total install,Ashraful Islam,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - Customer Connections,CC171 - WIP Analysis - all technologies,Ashish Kumar Bhangdia,No,Netezza,NSO 01 - Order to Activation Conformed
+NEO - Customer Connections,CC171 - WIP Analysis - all technologies,Ashish Kumar Bhangdia,No,Postgres,Tableau Events
+NEO - Customer Connections,CC172 - Red Priority Scorecard,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC178-Service Requests Dashboards,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires - Order Received
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires History
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires_INC
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires_LOC
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires_ORD
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires_ORD History
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Hyper,Orders with Multiple Enquires_ORD_Movement_History
+NEO - Customer Connections,CC182 - Orders with Multiple Enquires,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC183 - NEO BOC Dashboard,Pataree Ngamwongwan,No,Postgres,Tableau Events
+NEO - Customer Connections,CC183 - NEO BOC Dashboard,Pataree Ngamwongwan,No,Redshift,CSA A14H - Inc - Wor
+NEO - Customer Connections,CC183 - NEO BOC Dashboard,Pataree Ngamwongwan,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - Customer Connections,CC183 - NEO BOC Dashboard,Pataree Ngamwongwan,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - Customer Connections,CC183 - NEO BOC Dashboard,Pataree Ngamwongwan,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - Customer Connections,CC188 - Red Priority,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections,CC190 - MOET iWD Agent Performance,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC190 - MOET iWD Agent Performance,Tim Scerri,Yes,Netezza,Genesys MM Agent Interaction Detail Extract
+NEO - Customer Connections,CC190 - MOET iWD Agent Performance,Tim Scerri,Yes,Netezza,Genesys VWFM Agent Adherence Total
+NEO - Customer Connections,CC195 - Self-Install Kit (SIK) Dashboard,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC195 - Self-Install Kit (SIK) Dashboard,Cecilia Li,Yes,Netezza,Self Install Kit Metrics
+NEO - Customer Connections,CC199 - Red Priority Jeopardy Management Dashboard,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC199 - Red Priority Jeopardy Management Dashboard,Cecilia Li,No,Redshift,CC A10rma - Red and Amber
+NEO - Customer Connections,CC201 - Amber Priority Jeopardy Management Dashboard,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC201 - Amber Priority Jeopardy Management Dashboard,Carl Kruckow,No,Redshift,CC A10rma - Red and Amber
+NEO - Customer Connections,CC205 - PRI Status Checker,Israel Hoffmann,No,Postgres,Tableau Events
+NEO - Customer Connections,CC206 - COM Agent Interaction Report,Tim Dang,No,Netezza,Genesys MM Agent Interaction Detail
+NEO - Customer Connections,CC206 - COM Agent Interaction Report,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC208 - Crisis Management Dashboard,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC210 - NTD Onsite Performance Dashboard,Tim Scerri,No,Netezza,NTD Onsite Performance Dashboard (BIA01PR)
+NEO - Customer Connections,CC210 - NTD Onsite Performance Dashboard,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC211 - SC Checker,Carl Kruckow,No,Netezza,NSO 09 – Location Footprint List – Daily
+NEO - Customer Connections,CC211 - SC Checker,Carl Kruckow,No,Netezza,PNI Locations with Speed Calculated
+NEO - Customer Connections,CC211 - SC Checker,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC212 - Yesterday's Service Transfers LLD,Fletcher McGillivray,No,Hyper,Service Transfer Today's Completed Data
+NEO - Customer Connections,CC213 - COAT Pilot Dashboard,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC215 - Modify Orders Daily Summary,Fletcher McGillivray,No,Hyper,CVC Up/Down Grade
+NEO - Customer Connections,CC215 - Modify Orders Daily Summary,Fletcher McGillivray,No,Hyper,CVC Up/Down Gradev2
+NEO - Customer Connections,CC215 - Modify Orders Daily Summary,Fletcher McGillivray,No,Hyper,Modify Order LLD
+NEO - Customer Connections,CC217 - FTTC OPTUS SAM TRIAL,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC218 - PCP Inflight Impacts,Fletcher McGillivray,No,Hyper,PCP Inflight Impacts Today
+NEO - Customer Connections,CC221 - FTTC SC32 Remediation Workbook,Kevin Wu,No,Postgres,Tableau Events
+NEO - Customer Connections,CC222 - PON Mis-Match Held Order,Tim Scerri,No,Hyper,PON Mis-match Orders
+NEO - Customer Connections,CC222 - PON Mis-Match Held Order,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC223 - FTTC SIK Status LLD,Kevin Wu,No,Postgres,Tableau Events
+NEO - Customer Connections,CC224 - Real Time Facilities Access Orders,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC225 - RSM Financial Aid Orders,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC227 - RFT Summary,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections,CC228 - C-19 Risk Premises By Loc ID,Tim Scerri,No,Hyper,CDO NEO - Potential COVID Locations
+NEO - Customer Connections,CC228 - C-19 Risk Premises By Loc ID,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC229 - Amber and SIK Jeopardy Management,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC231 - COM - HFC Tap Containment Data,Carl Kruckow,No,Textscan,HFC  TAP Containment Format
+NEO - Customer Connections,CC232 - Sky Muster Plus Orders,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC233 - FTTC Newly Activated Services LLD,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC234 - Data Quality Check - Duplicate Records,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC237 - Net Prem_Services Activated - Speed Tiers Mix,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections,CC240 - Held Orders by FME,Carl Kruckow,No,Excel-direct,FME List
+NEO - Customer Connections,CC240 - Held Orders by FME,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC241 - RSP Metric Report,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC242 - LTSS Metrics,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC245 - Inflights Overall Power Point,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC270 - Inflight Orders and Future Appointment,Divya Srivastava,No,Hyper,PAI_OTD_SDP_Performance
+NEO - Customer Connections,CC294 - Held BAU,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC325 - Complaints Dashboard,Kevin Wu,No,Hyper,CC Complaints - Ins and Outs
+NEO - Customer Connections,CC325 - Complaints Dashboard,Kevin Wu,No,Hyper,CC Complaints - Ins and Outs LLD
+NEO - Customer Connections,CC325 - Complaints Dashboard,Kevin Wu,No,Hyper,CC Complaints - LLD
+NEO - Customer Connections,CC325 - Complaints Dashboard,Kevin Wu,No,Postgres,Tableau Events
+NEO - Customer Connections,CC325 - Connection Complaints Dashboard,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC325 - Connection Complaints Dashboard,Cecilia Li,No,Redshift,FLD A61S - Case
+NEO - Customer Connections,CC327 - FTTC Aged Distressed orders with SF cases,Sagar Mehrotra,No,Hyper,R2T TCS Case Data
+NEO - Customer Connections,CC327 - FTTC Aged Distressed orders with SF cases,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections,CC338 - CX MTM,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC339 - Inflight Hygiene,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC340 - TC2 Geo Tag report,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC342 - On The Day SDP Performance Dashboard,Ravi Nanduri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC346 - Single Location Dashboard,Tim Scerri,No,Netezza,SLV_UDS_Datasource
+NEO - Customer Connections,CC346 - Single Location Dashboard,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC349 - DCS Metrics View,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC400 - Business OTD Case Mgmt Performance,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC401 - BOS Connect,Tim Scerri,No,Hyper,NEO Business - Bears X
+NEO - Customer Connections,CC401 - BOS Connect,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC402 - BOS Connect Unadjusted Rxt,Pataree Ngamwongwan,No,Postgres,Tableau Events
+NEO - Customer Connections,CC403 - Business Service Assurance Open Incidents,Pataree Ngamwongwan,No,Postgres,Tableau Events
+NEO - Customer Connections,CC403 - Business Service Assurance Open Incidents,Pataree Ngamwongwan,No,Redshift,CSA A05 - Aged Incidents
+NEO - Customer Connections,CC404 - Business Ringfence Performance Dashboard,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,No,Hyper,NEO Business - Bears X
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,No,Redshift,CSA A05 - Aged Incidents
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,No,Redshift,CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,No,Redshift,CSA A14H - Inc - Wor
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,No,Redshift,CSA A21b - MTM 3.0 Met Miss Summary
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,No,Redshift,CSA A27 - Appointments Only
+NEO - Customer Connections,CC405 - BOS Assurance,Tim Scerri,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - Customer Connections,CC406 - Connect Summary Dashboard,Ravi Nanduri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC406 - Connect Summary Dashboard,Ravi Nanduri,No,Redshift,CSA A14H - Inc - Wor
+NEO - Customer Connections,CC406 - Connect Summary Dashboard,Ravi Nanduri,Yes,Netezza,WBA Service Order Reporting (Conformed View) Extract
+NEO - Customer Connections,CC426 - Business Order Enquires Performance,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections,CC426 - Business Order Enquires Performance,Tim Dang,Yes,Netezza,CSA E07 - Genesys Agent Call Detail
+NEO - Customer Connections,CC426 - Business Order Enquires Performance,Tim Dang,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - Customer Connections,CC500 - Agent Search,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC500 - Agent Search,Tim Scerri,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - Customer Connections,CC501 - MOET Daily Dashboard,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC501 - MOET Daily Dashboard,Tim Scerri,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - Customer Connections,CC501 - MOET Daily Dashboard,Tim Scerri,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - Customer Connections,CC501 - MOET Daily Dashboard,Tim Scerri,Yes,Netezza,Genesys MM Agent Interaction Detail Extract
+NEO - Customer Connections,CC502 - MOET Daily Voice Interactions,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC502 - MOET Daily Voice Interactions,Tim Scerri,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - Customer Connections,CC504 - MOET 504 Historical VMB Data,Tim Scerri,No,Hyper,MOET_VMB_Historical
+NEO - Customer Connections,CC504 - MOET 504 Historical VMB Data,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC505 - MOET Service Requests by status,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC505 - MOET Service Requests by status,Tim Scerri,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - Customer Connections,CC506 - MOET SRs Reported since 2017,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC506 - MOET SRs Reported since 2017,Tim Scerri,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - Customer Connections,CC507 - MOET Voice Interaction Resolution Tracking,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC507 - MOET Voice Interaction Resolution Tracking,Tim Scerri,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - Customer Connections,CC508 - Connect orders enquiry received,Tim Scerri,No,Hyper,RSP Cat Orders - Enquiries Aggregated
+NEO - Customer Connections,CC508 - Connect orders enquiry received,Tim Scerri,No,Hyper,RSP Only Orders - Enquiries Aggregated
+NEO - Customer Connections,CC508 - Connect orders enquiry received,Tim Scerri,No,Hyper,RSP Raw Orders and Incidents Joined Data
+NEO - Customer Connections,CC508 - Connect orders enquiry received,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections,CC509 - MOET - EOD BCP Productivity Report,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections,CC509 - MOET - EOD BCP Productivity Report,Cecilia Li,No,Redshift,NEO A01a - Service Request - Work Log Notes
+NEO - Customer Connections,CC999 - CC Report Portal,Carl Kruckow,No,Hyper,CC Report List
+NEO - Customer Connections,CC999 - CC Report Portal,Carl Kruckow,No,Postgres,Tableau Events
+NEO - Customer Connections,CC999 - CC Report Portal,Carl Kruckow,No,Postgres,Tableau HTTP Requests
+NEO - Customer Connections,CC999 - CC Report Portal,Carl Kruckow,No,Postgres,Tableau Workbook Data Connections
+NEO - Customer Connections,Delivery Partner - Start of the Day report,Ashish Kumar Bhangdia,No,Netezza,Project - Aged Orders
+NEO - Customer Connections (test),"
+
+CC407 - Business Fix Quality Metrics - Daily",Jose Alex,No,Postgres,Tableau Events
+NEO - Customer Connections (test),"
+
+CC407 - Business Fix Quality Metrics - Daily",Jose Alex,No,Redshift,CSA A14H - Inc - Wor
+NEO - Customer Connections (test),"
+
+CC407 - Business Fix Quality Metrics - Daily",Jose Alex,Yes,Netezza,CSA E02 - Genesys MM Agent Interaction Detail
+NEO - Customer Connections (test),"
+
+CC407 - Business Fix Quality Metrics - Daily",Jose Alex,Yes,Netezza,CSA E09 - Genesys Queue Detail
+NEO - Customer Connections (test),"
+
+CC407 - Business Fix Quality Metrics - Daily",Jose Alex,Yes,Netezza,CSA E10 - Genesys VWFM Agent Adherence Total
+NEO - Customer Connections (test),7 Million LLD,Fletcher McGillivray,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Activation History,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Adjusted NRFT LLD Extract,Fletcher McGillivray,No,Hyper,Adjusted NRFT Daily
+NEO - Customer Connections (test),CAF3.4 TCS - Allocate - % Acknowledged Before Appointment Day test,Fletcher McGillivray,Yes,Netezza,CAF KPI 15 Data Source
+NEO - Customer Connections (test),CAF3.4 TCS - Allocate - % Acknowledged Before Appointment Day test,Fletcher McGillivray,Yes,Netezza,CAF KPI 15 Data Source test
+NEO - Customer Connections (test),CC Complaints Report Draft 20190319,Suhali Tandon,No,Hyper,CC Complaints - Ins and Outs
+NEO - Customer Connections (test),CC Complaints Report Draft 20190319,Suhali Tandon,No,Hyper,CC Complaints - LLD
+NEO - Customer Connections (test),CC Complaints Report Draft 20190319,Suhali Tandon,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC RealTime - Fallout and Priority Assist,Tim Dang,No,Hyper,PAI_OTD_SDP_Performance
+NEO - Customer Connections (test),CC RealTime - Fallout and Priority Assist,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC RealTime - Receive & Assign - Design Customer Services,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC SME - DP dashboard,Suhali Tandon,No,Hyper,BPE - Complaints
+NEO - Customer Connections (test),CC SME - DP dashboard,Suhali Tandon,No,Hyper,BPE - Open Complaints
+NEO - Customer Connections (test),CC SME Team Dashboard,Suhali Tandon,No,Hyper,BPE - Open Complaints
+NEO - Customer Connections (test),CC SME Team Dashboard,Suhali Tandon,No,Hyper,CC Complaints - Ins and Outs
+NEO - Customer Connections (test),CC SME Team Dashboard,Suhali Tandon,No,Hyper,CC Complaints - LLD
+NEO - Customer Connections (test),CC SME Team Dashboard,Suhali Tandon,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC083 - FTTC Connect Daily Report,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC104 - Key Metrics LLD New Data Source,Tim Scerri,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC140 - RSP EEC L1 escalations dashboard DRAFT,Fletcher McGillivray,No,Hyper,RSP EEC Data
+NEO - Customer Connections (test),CC140 - RSP EEC L1 escalations dashboard DRAFT,Fletcher McGillivray,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC216 - Held Management Dashboard,Cecilia Li,No,Hyper,CLOSED MULTIPLE HELD TDS
+NEO - Customer Connections (test),CC216 - Held Management Dashboard,Cecilia Li,No,Hyper,INFLIGHT MULTIPLE HELD TDS
+NEO - Customer Connections (test),CC216 - Held Management Dashboard,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC221 - FTTC SC32 Remediation Workbook,Kevin Wu,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC243 - FTTN ULL Orders Migration,Cecilia Li,No,Hyper,FTTN ULL Orders
+NEO - Customer Connections (test),CC243 - FTTN ULL Orders Migration,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC244 - Proposed RFT Change,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC318 - Future Booked Inc Report,Fletcher McGillivray,No,Hyper,CC318 - Future Booked Appts LLD
+NEO - Customer Connections (test),CC334 - Pending LLD Cancel Output Data,Fletcher McGillivray,No,Hyper,Pending LLD w. Cancellation Flags
+NEO - Customer Connections (test),CC343 - NEO CC Metrics - SMS Update,Ravi Nanduri,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC409 - TC2 Inflight Incidents (Business) Dashboard,Jose Alex,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CC888 - Real Time Net Business Activations,Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CCxx - CME Dashboard,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CCxx - SIK Metrics,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),CCxx - Weekly Insight Graphs,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Complaints Cloud,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Complaints Cloud,Cecilia Li,No,Redshift,FLD A61S - Case
+NEO - Customer Connections (test),Complaints Insights (BPE),Kevin Wu,No,Hyper,BPE - Open Complaints
+NEO - Customer Connections (test),CSLL PRI Details (Test),Ashish Kumar Bhangdia,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Daily MTTR & Aged Scorecard (Business),Tim Dang,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Daily MTTR & Aged Scorecard (Business),Tim Dang,No,Redshift,CSA A11S - Incident
+NEO - Customer Connections (test),Daily MTTR & Aged Scorecard (Business),Tim Dang,No,Redshift,CSA A14H - Inc - Wor
+NEO - Customer Connections (test),Daily MTTR & Aged Scorecard (Business),Tim Dang,No,Redshift,CSA A27 - Appointments Only
+NEO - Customer Connections (test),Held Pending Movement,Cecilia Li,No,Postgres,Tableau Events
+NEO - Customer Connections (test),HFC Callback Dashboard,Sagar Mehrotra,No,Hyper,callbackdata_2
+NEO - Customer Connections (test),HFC Callback Dashboard,Sagar Mehrotra,Yes,Netezza,Logical Order Datasource
+NEO - Customer Connections (test),LOC-Address Mismatch - FW,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Net Prem/Services Speed Tiers,Vijay Jaswal,No,Postgres,Tableau Events
+NEO - Customer Connections (test),On The Day Daily Summary,Cecilia Li,No,Hyper,PAI_OTD_SDP_Performance
+NEO - Customer Connections (test),On The Day Daily Summary,Cecilia Li,No,Hyper,PRD_OTD_View
+NEO - Customer Connections (test),On The Day SDP Performance Dashboard (Test with Cloud Data),Tim Dang,No,Hyper,PAI_OTD_SDP_Performance
+NEO - Customer Connections (test),Pon Mis-Match Held Order,Suhali Tandon,No,Hyper,PON Mis-match Orders
+NEO - Customer Connections (test),Pon Mis-Match Held Order,Suhali Tandon,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Proactive RFT Monitoring,Fletcher McGillivray,No,Hyper,FTTC DFD RFT Daily Wash
+NEO - Customer Connections (test),Proactive RFT Monitoring,Fletcher McGillivray,No,Hyper,Live FTTC DFD RFT Wash
+NEO - Customer Connections (test),Rolled forward FTTC LOCs,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),Service Requests Dashboards,Suhali Tandon,No,Redshift,Remedy Helpdesk (Redshift)
+NEO - Customer Connections (test),SIK Reporting - Test for HFC,Sagar Mehrotra,No,Postgres,Tableau Events
+NEO - Customer Connections (test),TC2 SC1 Prescope Report DRAFT,Fletcher McGillivray,No,Hyper,TC2 Prescope Data
+NEO - Customer Connections (test),Test - NEX08 - Inflight Orders - RSP Forward View,Pritpal Walia,No,Netezza,FRP_Inflight_Orders_Movement Analysis
+NEO - Customer Connections (test),TIO Aged Cases,Suhali Tandon,No,Hyper,BPE - Open Complaints

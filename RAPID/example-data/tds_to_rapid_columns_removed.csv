@@ -1,0 +1,339 @@
+﻿tds,schema,table
+CC 15 - Ord - Apt - Wrq - Wor - Loc - Pri.tds,cc_dde,cc_appointment_t
+CC 15 - Ord - Apt - Wrq - Wor - Loc - Pri.tds,cc_dde,cc_orders_dq_links_t
+CC 15 - Ord - Apt - Wrq - Wor - Loc - Pri.tds,cc_dde,cc_work_request_t
+CC 15 - Ord - Apt - Wrq - Wor - Loc - Pri.tds,cc_dde,tableau cc order additional attributes view
+CC 15 - Ord - Apt - Wrq - Wor - Loc - Pri.tds,cc_dde,tableau cc orders view
+CC 15 - Ord - Apt - Wrq - Wor - Loc - Pri.tds,cc_dde,tableau cc work order view
+CC 15 - Ord - Apt - Wrq - Wor - Loc - Pri.tds,cc_dde,tableau location view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau cc appointment view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau cc order additional attributes view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau cc order links view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau cc orders view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau cc work order view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau cc work request view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau location view
+CC A10 - Ord - Apt - Wor - Wrq - Loc - Pri,cc_dde,tableau product instance view
+CC A10m - Ord - Prd History,tableau_dde,tableau_cc_a10_minified_order_prd_changes_t
+CC A10r - Ord - Wor - Loc,nbn_dde_23,tableau product instance view
+CC A10r - Ord - Wor - Loc,nbn_dde_intraday,tableau live cc order work order links view
+CC A10r - Ord - Wor - Loc,nbn_dde_intraday,tableau live order location view
+CC A10r - Ord - Wor - Loc,nbn_dde_intraday,tableau live order view
+CC A10r - Ord - Wor - Loc,nbn_dde_intraday,tableau live work order view
+CC A10rm - Net Prem Activated,tableau_dde,tableau_cc_10r_minified_net_prem_t
+CC A10rma - Red and Amber (2),tableau_dde,tableau_cc_10r_minified_red_and_amber_t
+CC A11S - Orders,cc_dde,tableau cc order additional attributes view
+CC A11S - Orders,cc_dde,tableau cc order daily snapshot view
+CC A11S - Orders,cc_dde,tableau cc order only links view
+CC A11S - Orders,cc_dde,tableau cc orders view
+CC A11S - Orders,cc_dde,tableau cc wo resolver group view
+CC A11S - Orders,cc_dde,tableau cc work order view
+CC A11S - Orders,cc_dde,tableau location view
+CC A11S - Orders,cc_dde,tableau product instance view
+CC A11S - Orders (2),cc_dde,tableau cc order additional attributes view
+CC A11S - Orders (2),cc_dde,tableau cc order daily snapshot view
+CC A11S - Orders (2),cc_dde,tableau cc order only links view
+CC A11S - Orders (2),cc_dde,tableau cc orders view
+CC A11S - Orders (2),cc_dde,tableau cc wo resolver group view
+CC A11S - Orders (2),cc_dde,tableau cc work order view
+CC A11S - Orders (2),cc_dde,tableau location view
+CC A11S - Orders (2),cc_dde,tableau product instance view
+CC A11S - Orders (3),cc_dde,tableau cc order additional attributes view
+CC A11S - Orders (3),cc_dde,tableau cc order daily snapshot view
+CC A11S - Orders (3),cc_dde,tableau cc order only links view
+CC A11S - Orders (3),cc_dde,tableau cc orders view
+CC A11S - Orders (3),cc_dde,tableau cc wo resolver group view
+CC A11S - Orders (3),cc_dde,tableau cc work order view
+CC A11S - Orders (3),cc_dde,tableau location view
+CC A11S - Orders (3),cc_dde,tableau product instance view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau cc order additional attributes view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau cc order daily snapshot view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau cc order only links view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau cc orders view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau cc wo resolver group view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau cc work order view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau location view
+CC A11S - Orders Extract LLD.tds,cc_dde,tableau product instance view
+CC A11S - Orders Extract LLD.tds,Extract,Extract
+CC A11S - Orders Extract.tds,Extract,Extract
+CC A20r - Full Order Fallout,nbn_dde_intraday,tableau live cc order work order links view
+CC A20r - Full Order Fallout,nbn_dde_intraday,tableau live full fallout view
+CC A20r - Full Order Fallout,nbn_dde_intraday,tableau live location view
+CC A20r - Full Order Fallout,nbn_dde_intraday,tableau live order view
+CC A20r - Full Order Fallout,nbn_dde_intraday,tableau live work order view
+CC A40 - Order Comments,cc_dde,tableau cc order additional attributes view
+CC A40 - Order Comments,cc_dde,tableau cc order comments view
+CC A40 - Order Comments,cc_dde,tableau cc order only links view
+CC A40 - Order Comments,cc_dde,tableau cc orders view
+CC A40 - Order Comments,cc_dde,tableau location view
+CC A40 - Order Comments,cc_dde,tableau product instance view
+CC A50 -  Genesys - Order (2),cc_dde,tableau cc genesys view
+"CC A70r - CVC, NNI and FA Order",nbn_dde_intraday,tableau live cvc nni fa links view
+"CC A70r - CVC, NNI and FA Order",nbn_dde_intraday,tableau live cvc nni fa orders view
+"CC A70r - CVC, NNI and FA Order",nbn_dde_intraday,tableau live fa order additional attributes view
+CSA A05 - Aged Incidents,nbn_dde_23,tableau incident additional attributes view
+CSA A05 - Aged Incidents,nbn_dde_23,tableau incident location links view
+CSA A05 - Aged Incidents,nbn_dde_23,tableau incidents view
+CSA A05 - Aged Incidents,nbn_dde_23,tableau location view
+CSA A05 - Aged Incidents,nbn_dde_23,tableau product instance view
+CSA A05 - Aged Incidents,nbn_dde_23,td tableau aged incident view
+CSA A05 - Aged Incidents,nbn_dde_23,td tableau gcc feedback view
+CSA A05 - Aged Incidents,nbn_dde_23,td tableau qld minor works incidents view
+CSA A05 - Aged Incidents test,nbn_dde_23,tableau incident additional attributes view
+CSA A05 - Aged Incidents test,nbn_dde_23,tableau incident location links view
+CSA A05 - Aged Incidents test,nbn_dde_23,tableau incidents view
+CSA A05 - Aged Incidents test,nbn_dde_23,tableau location view
+CSA A05 - Aged Incidents test,nbn_dde_23,tableau product instance view
+CSA A05 - Aged Incidents test,nbn_dde_23,td tableau aged incident view
+CSA A05 - Aged Incidents test,nbn_dde_23,td tableau qld minor works incidents view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau incident additional attributes view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau incident aged notes view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau incident location links view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau incidents view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau location view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau network incidents view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau ni links view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,tableau product instance view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,td tableau aged incident view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,td tableau gcc feedback view
+CSA A05A - Aged and NI with Worklog Notes,nbn_dde_23,td tableau qld minor works incidents view
+CSA A05H - Aged Incidents with Snapshot History,nbn_dde_23,tableau incident links view
+CSA A05H - Aged Incidents with Snapshot History,nbn_dde_23,tableau product instance view
+CSA A05H - Aged Incidents with Snapshot History,nbn_dde_23,td tableau aged incident snapshot view
+CSA A05m - Aged Incidents Extract.tds,Extract,Extract
+CSA A05m - Aged Incidents Extract.tds,tableau_dde,tableau_csa_a05_aged_incidents_t
+CSA A05r - Aged Incident,nbn_dde_intraday,tableau live aged incidents view
+CSA A11 - Incident,enc_dde,tableau enc case view
+CSA A11 - Incident,enc_dde,tableau enc incident case links view
+CSA A11 - Incident,nbn_dde_23,tableau incident additional attributes view
+CSA A11 - Incident,nbn_dde_23,tableau incident mdf detailed view
+CSA A11 - Incident,nbn_dde_23,tableau incident since days active view
+CSA A11 - Incident,nbn_dde_23,tableau incidents view
+CSA A11 - Incident,nbn_dde_23,tableau location view
+CSA A11 - Incident,nbn_dde_23,tableau product instance view
+CSA A11a - Service and Network Incidents,nbn_dde_23,tableau location view
+CSA A11a - Service and Network Incidents,nbn_dde_23,tableau product instance view
+CSA A11a - Service and Network Incidents,omn_dde,tableau omn incident links view
+CSA A11a - Service and Network Incidents,omn_dde,tableau omn incidents view
+CSA A11H - Incident,nbn_dde_23,tableau gns vwfm agent adherence total view
+CSA A11H - Incident,nbn_dde_23,tableau incident additional attributes view
+CSA A11H - Incident,nbn_dde_23,tableau incident location links view
+CSA A11H - Incident,nbn_dde_23,tableau incidents events only view
+CSA A11H - Incident,nbn_dde_23,tableau incidents view
+CSA A11H - Incident,nbn_dde_23,tableau location view
+CSA A11H - Incident,nbn_dde_23,tableau product instance view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau incident additional attributes view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau incident appointments view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau incident links view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau incident work requests view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau incidents view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau location view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau product instance view
+CSA A12 - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau work order view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau incident additional attributes view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau incident appointments view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau incident links view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau incident work requests view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau incidents events only view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau incidents view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau location view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau product instance view
+CSA A12H - Inc - Apt - Wor - Wrq - Loc- Pri.tds,nbn_dde_23,tableau work order view
+CSA A12r - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_23,tableau product instance view
+CSA A12r - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_intraday,tableau live incident appointments 12r view
+CSA A12r - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_intraday,tableau live incident links view
+CSA A12r - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_intraday,tableau live incidents view
+CSA A12r - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_intraday,tableau live location view
+CSA A12r - Inc - Apt - Wor - Wrq - Loc- Pri,nbn_dde_intraday,tableau live work order view
+CSA A12rm - Inc - Apt - Wor - Wrq - Loc - Pri.tds,nbn_dde_intraday,tableau minify csa a12r eng
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau incident additional attributes view
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau incident and work order events view
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau incident rejected resolution notes view
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau incident wo links view
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau incidents view
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau location view
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau product instance view
+CSA A14H - Inc - Wor.tds,nbn_dde_23,tableau work order view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau incident additional attributes view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau incident events daily snapshot view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau incident location links view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau incident wo links view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau incidents view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau location view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau product instance view
+CSA A14S - Inc - Wor,nbn_dde_23,tableau work order view
+CSA A15H - Inc - Wrq.tds,nbn_dde_23,tableau incident additional attributes view
+CSA A15H - Inc - Wrq.tds,nbn_dde_23,tableau incident links view
+CSA A15H - Inc - Wrq.tds,nbn_dde_23,tableau incident work request events view
+CSA A15H - Inc - Wrq.tds,nbn_dde_23,tableau incident work requests view
+CSA A15H - Inc - Wrq.tds,nbn_dde_23,tableau incidents view
+CSA A15H - Inc - Wrq.tds,nbn_dde_23,tableau location view
+CSA A15H - Inc - Wrq.tds,nbn_dde_23,tableau product instance view
+CSA A16a - Incidents Intraday,nbn_dde_23,csa_splnk_appointments_all_t
+CSA A16a - Incidents Intraday,nbn_dde_23,csa_splnk_incidents_all_t
+CSA A16a - Incidents Intraday,nbn_dde_23,csa_splnk_location_all_t
+CSA A16a - Incidents Intraday (2),nbn_dde_intraday,csa_splnk_incidents_all_t
+CSA A16a - Incidents Intraday (2),nbn_dde_intraday,csa_splnk_links_t
+CSA A16a - Incidents Intraday (2),nbn_dde_intraday,tableau live field appointment a16a
+CSA A16a - Incidents Intraday (2),nbn_dde_intraday,tableau live order location view
+CSA A18 - MTM 3.0 Inc Drill Down,nbn_dde_23,tableau incident location links view
+CSA A18 - MTM 3.0 Inc Drill Down,nbn_dde_23,tableau mtm incident drill down
+CSA A18 - MTM 3.0 Inc Drill Down,nbn_dde_23,tableau product instance view
+CSA A19 - MTM 3.0 Wor Drill Down,nbn_dde_23,tableau incident location links view
+CSA A19 - MTM 3.0 Wor Drill Down,nbn_dde_23,tableau mtm work order drill down view
+CSA A20b - MTM 3.0  Summary.tds,nbn_dde_23,mtm_summary_chart_position
+CSA A20b - MTM 3.0  Summary.tds,nbn_dde_23,tableau incident location links view
+CSA A20b - MTM 3.0  Summary.tds,nbn_dde_23,tableau incident since days active view
+CSA A20b - MTM 3.0  Summary.tds,nbn_dde_23,tableau mtm summary view
+CSA A21b - MTM 3.0 Met Miss Summary,nbn_dde_23,tableau incident location links view
+CSA A21b - MTM 3.0 Met Miss Summary,nbn_dde_23,tableau incident since days active view
+CSA A21b - MTM 3.0 Met Miss Summary,nbn_dde_23,tableau mtm summary met or miss view
+CSA A21b - MTM 3.0 Met Miss Summary,nbn_dde_23,tableau product instance view
+CSA A21b - MTM 3.0 Met Miss Summary (local copy) (copy).tds,davidgriffiths,tableau mtm summary met or miss view
+CSA A21b - MTM 3.0 Met Miss Summary (local copy) (copy).tds,nbn_dde_23,tableau incident location links view
+CSA A21b - MTM 3.0 Met Miss Summary (local copy) (copy).tds,nbn_dde_23,tableau incident since days active view
+CSA A21b - MTM 3.0 Met Miss Summary (local copy) (copy).tds,nbn_dde_23,tableau product instance view
+CSA A25 - MTM Targets.tds,nbn_dde_23,tableau mtm glide path target view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau incident additional attributes view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau incident location links view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau incidents view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau location view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau prior incident additional attributes view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau prior incidents view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau prior product instance view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau product instance view
+CSA A26a - Incident Repeats,nbn_dde_23,tableau repeat incidents view
+CSA A26am - Incident Repeats.tds,Extract,Extract
+CSA A26am - Incident Repeats.tds,tableau_dde,tableau_csa_a26a_minified_repeat_tr_t
+CSA A26rm - Incident Repeat with TR,tableau_dde,tableau_csa_26r_minified_repeat_tr_t
+CSA A27 - Appointments Only,nbn_dde_23,tableau incident appointments view
+CSA A27 - Appointments Only,nbn_dde_23,tableau incident location appointment links view
+CSA A27 - Appointments Only,nbn_dde_23,tableau location view
+CSA A27 - Appointments Only,nbn_dde_23,tableau product instance view
+CSA A27 - Appointments Only prod.tds,nbn_dde_23,tableau incident appointments view
+CSA A27 - Appointments Only prod.tds,nbn_dde_23,tableau incident location appointment links view
+CSA A27 - Appointments Only UAT,deeptisankar,tableau incident appointments view
+CSA A27 - Appointments Only UAT,deeptisankar,tableau incident location appointment links view
+CSA A27 - Appointments Only UAT,nbn_dde_23,tableau location view
+CSA A27 - Appointments Only UAT,nbn_dde_23,tableau product instance view
+CSA A31 - Incident CRQ.tds,nbn_dde_23,tableau crq location links view
+CSA A31 - Incident CRQ.tds,nbn_dde_23,tableau incident additional attributes view
+CSA A31 - Incident CRQ.tds,nbn_dde_23,tableau incidents view
+CSA A31 - Incident CRQ.tds,nbn_dde_23,tableau location view
+CSA A31 - Incident CRQ.tds,nbn_dde_23,tableau product instance view
+CSA A31 - Incident CRQ.tds,nbn_dde_23,tableau remedy change associations view
+CSA A31 - Incident CRQ.tds,nbn_dde_23,tableau remedy change requests view
+CSA A31r - Incident CRQ,nbn_dde_intraday,tableau live crq location links view
+CSA A31r - Incident CRQ,nbn_dde_intraday,tableau live incidents view
+CSA A31r - Incident CRQ,nbn_dde_intraday,tableau live location view
+CSA A31r - Incident CRQ,nbn_dde_intraday,tableau live remedy change associations view
+CSA A31r - Incident CRQ,nbn_dde_intraday,tableau live remedy change requests view
+CSA E04 - Genesys Team Data.tds,Extract,Extract
+CSA E08 - Genesys VWFM Agent Adherence Data.tds,BIA_BA_EUL,GNS_VWFM_AGENTADHERENCEDATA_V
+CSA E08 - Genesys VWFM Agent Adherence Data.tds,Extract,Extract
+CSA E09 - Genesys Queue Detail.tds,BIA_BA_EUL,View Genesys Queue Detail
+CSA E09 - Genesys Queue Detail.tds,Extract,Extract
+CSA E10 - Genesys VWFM Agent Adherence Total.tds,BIA_BA_EUL,GNS_VWFM_AGENTADHERENCETOTAL_V
+CSA E10 - Genesys VWFM Agent Adherence Total.tds,Extract,Extract
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,cc_dde,tableau cc order additional attributes view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,cc_dde,tableau cc orders view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,field_dde,tableau field appointment view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,field_dde,tableau field links view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,field_dde,tableau field work order view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,nbn_dde_23,tableau incident additional attributes view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,nbn_dde_23,tableau incidents view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,nbn_dde_23,tableau location view
+FLD A10 - Ord - Inc - Apt - Wor - Loc - Pri,nbn_dde_23,tableau product instance view
+FLD A10m - OTD (1),tableau_dde,tableau_fld_a10_minified_otd_t
+FLD A10m - OTD Extract (3),Extract,Extract
+FLD A10m - OTD Extract (3),tableau_dde,tableau_fld_a10_minified_otd_t
+FLD A10ma - Remediation.tds,Extract,Extract
+FLD A10ma - Remediation.tds,tableau_dde,tableau_fld_a10_minified_remediation_t
+FLD A10mc - Capacity,field_dde,tableau field capacity view
+FLD A10r - Ord - Inc - Wor - Loc -Pri,nbn_dde_23,tableau product instance view
+FLD A10r - Ord - Inc - Wor - Loc -Pri,nbn_dde_intraday,tableau live incidents view
+FLD A10r - Ord - Inc - Wor - Loc -Pri,nbn_dde_intraday,tableau live location view
+FLD A10r - Ord - Inc - Wor - Loc -Pri,nbn_dde_intraday,tableau live order view
+FLD A10r - Ord - Inc - Wor - Loc -Pri,nbn_dde_intraday,tableau live work order order incident links view
+FLD A10r - Ord - Inc - Wor - Loc -Pri,nbn_dde_intraday,tableau live work order view
+FLD A10ra - Ord - Inc - Apt - Loc -Pri,nbn_dde_23,tableau product instance view
+FLD A10ra - Ord - Inc - Apt - Loc -Pri,nbn_dde_intraday,tableau live appointment order incident links view
+FLD A10ra - Ord - Inc - Apt - Loc -Pri,nbn_dde_intraday,tableau live field appointment
+FLD A10ra - Ord - Inc - Apt - Loc -Pri,nbn_dde_intraday,tableau live incidents view
+FLD A10ra - Ord - Inc - Apt - Loc -Pri,nbn_dde_intraday,tableau live location view
+FLD A10ra - Ord - Inc - Apt - Loc -Pri,nbn_dde_intraday,tableau live order view
+FLD A10rc- Capacity,nbn_dde_intraday,tableau live field capacity view
+FLD A11S Closed Incidents ds.tds,lld,lld12 - fld a11s closed incidents view
+FLD A11Sm - LLD CSA Exceed (except Open),davidgriffiths,tableau_csa_lld_all_but_open_v
+FLD A11Sm - LLD CSA Exceed (Open Only),davidgriffiths,tableau_csa_lld_open_v
+FLD A11Sm - Orders and Incidents,tableau_dde,tableau_fld_a11s_minified_t
+FLD A11Sm - Work Order History,tableau_dde,tableau field a11sm wo hist view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,cc_dde,tableau cc order additional attributes view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,cc_dde,tableau cc orders view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,field_dde,tableau field appointment view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,field_dde,tableau field links view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,field_dde,tableau field nbnprecall view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,field_dde,tableau field work order view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,nbn_dde_23,tableau incident additional attributes view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,nbn_dde_23,tableau incidents view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,nbn_dde_23,tableau location view
+FLD A41 - Ord - Inc - Apt - Wor - Loc - Pri - PreCall,nbn_dde_23,tableau product instance view
+FLD A41m - Precall Extract.tds,Extract,Extract
+FLD A41m - Precall Extract.tds,tableau_dde,tableau_fld_a41_minified_precall_t
+FLD A51 - Streamline Final,streamline,tableau streamline 2
+FLD A61S - Case,enc_dde,tableau enc case field links view
+FLD A61S - Case,enc_dde,tableau enc case snapshot view
+FLD A61S - Case,enc_dde,tableau enc case view
+FLD A61S - Case,nbn_dde_23,tableau location view
+FLDA13 - Work Order Log Notes.tds,field_dde,tableau field work order log view
+FLDA54 - Streamline Final Transposed.tds,streamline,tableau streamline final transposed
+LLD10 - CSA A05 Aged Incidents DS,lld,lld10 - csa a05 aged incidents view
+LLD11 - FLD A11S mttr ds.tds,lld,lld11 - fld a11s mttr view
+LLD13 - FLD A11S Recieved Incidents ds.tds,lld,lld13 - fld a11s received incidents view
+LLD14 - CSA A14H Fix Right First Time ds.tds,lld,lld14 - csa a14h fix right first time view
+LLD15 - FLD A11Sm Fix OTD ds.tds,lld,lld15 - fld a11sm fix otd view
+LLD17 - CSA A26a Repeat CX12 ds.tds,lld,lld17 - csa a26a repeat cx12 view
+LLD18 - FLD A11Sm pending incidents ds.tds,lld,lld18 - fld a11sm pending incidents view
+LLD19 - CSA A11H MTTA ds.tds,lld,lld19 - csa a11h mtta view
+LLD20 - CSA A14H Resolution Rejected ds.tds,lld,lld20 - csa a14h resolution rejected view
+LLD21 - CSA27 Appointments Within SLA ds.tds,lld,lld21 - csa27 appointments within sla view
+LLD22 - FLD A11S Data Speed ds.tds,lld,lld22 - fld a11s data speed view
+LLD23 - CSA A26a Repeat CX8 ds.tds,lld,lld23 - csa a26a repeat cx8 view
+NEO A01a - Service Request - Work Log Notes,Extract,Extract
+NEO A01a - Service Request - Work Log Notes,nbn_dde_23,tableau remedy work log notes view
+NEO A01a - Service Request - Work Log Notes,nbn_dde_23,tableau service requests view
+NEO A01r - Service Request,nbn_dde_intraday,tableau live service request links view
+NEO A01r - Service Request,nbn_dde_intraday,tableau live service requests view
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_fttx_r1_r3_combined_v
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_fttx_r12_combined_v
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_fttx_r7_combined_v
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_fw_file1_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_fw_file2_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_hfc_a2_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_hfc_p11_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_hfc_p12_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_hfc_p13_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_hfc_p14_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_hfc_p15_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_hfc_p2_3_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_transit_b14_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_transit_b15_combined_v
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_transit_b16_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,calc_transit_b3_2_t
+NETO A10 - Headline Metrics (local copy) (copy).tds,neto_dde,id_link_t
+NETO A11sm- Location.tds,tableau_dde,tableau_neto_a11s_minified_service_rollback_t
+UAT CSA A16a - Incidents Intraday (NPTORA-2471),nbn_dde_intraday,tableau live field appointment a16a
+UAT CSA A16a - Incidents Intraday (NPTORA-2471),nbn_dde_intraday,tableau live incident appointment links view
+UAT CSA A16a - Incidents Intraday (NPTORA-2471),nbn_dde_intraday,tableau live incidents view
+UAT CSA A16a - Incidents Intraday (NPTORA-2471),nbn_dde_intraday,tableau live location view
+UAT CSA A16h - Incidents  with Events Intraday (NPTORA-1955),nbn_dde_23,tableau product instance view
+UAT CSA A16h - Incidents  with Events Intraday (NPTORA-1955),nbn_dde_intraday,tableau live field appointment a16a
+UAT CSA A16h - Incidents  with Events Intraday (NPTORA-1955),nbn_dde_intraday,tableau live incident appointment links view
+UAT CSA A16h - Incidents  with Events Intraday (NPTORA-1955),nbn_dde_intraday,tableau live incident events view
+UAT CSA A16h - Incidents  with Events Intraday (NPTORA-1955),nbn_dde_intraday,tableau live incidents view
+UAT CSA A16h - Incidents  with Events Intraday (NPTORA-1955),nbn_dde_intraday,tableau live location view
+UAT NEO A01 - Service Request (NPTORA-2131),Extract,Extract
+UAT NEO A01 - Service Request (NPTORA-2131),nbn_dde_23,tableau location view
+UAT NEO A01 - Service Request (NPTORA-2131),nbn_dde_23,tableau service request additional attributes view
+UAT NEO A01 - Service Request (NPTORA-2131),nbn_dde_23,tableau service request links view
+UAT NEO A01 - Service Request (NPTORA-2131),nbn_dde_23,tableau service requests view
