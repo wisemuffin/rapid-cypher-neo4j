@@ -47,6 +47,7 @@ CALL apoc.create.addLabels(n3, [toUpper(child_shema)]) YIELD node as n4
 /////////////////////// EXAMPLE CHECKPOINT 2 /////////////////////
 MATCH (p:SQL {name: parent_shema+'.'+parent_table}), (c:SQL {name: child_shema+'.'+child_table})
 MERGE (p)-[rel:DEPENDS]->(c)
+MERGE (p)<-[:IMPACTS]-(c)
 
 // CALL apoc.merge.relationship()
 RETURN count(p)
