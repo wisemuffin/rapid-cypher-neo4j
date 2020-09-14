@@ -1,5 +1,5 @@
 // JSON RAPID - 23,  tab, cc, fld
-CALL apoc.load.json('/allSql.json') YIELD value as row
+CALL apoc.load.json('https://raw.githubusercontent.com/wisemuffin/rapid-cypher-neo4j/master/RAPID/example-data/allSql.json') YIELD value as row
 //RETURN row LIMIT 10
 WITH row
   , toLower(replace(split(row.parent,'.')[0],'"','')) as parent_shema
