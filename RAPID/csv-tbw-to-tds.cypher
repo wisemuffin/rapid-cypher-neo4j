@@ -1,14 +1,13 @@
 // CSV - TBW to TDS
 LOAD CSV WITH HEADERS
-FROM 'file:///tbw_to_tds_RAPID.csv' as row
-//RETURN row
+FROM 'https://raw.githubusercontent.com/wisemuffin/rapid-cypher-neo4j/master/RAPID/example-data/twb_to_tds_rapid.csv' as row
+//RETURN row LIMIT 10
 
-WITH DISTINCT row.Project as Project, row.Workbook as Workbook, row.`Workbook Publisher` as `Workbook Publisher`
-//RETURN Project,Workbook, `Workbook Publisher` LIMIT 10
-MERGE (wb:TWB {name: Workbook})
+WITH DISTINCT row.`Project Name` as `Project`, row.`Workbook Name` as Name, row.`Friendly Name ( Users)` as `Publisher`
+MERGE (wb:TWB {name: Name})
 	ON CREATE SET wb += {
     	Project:Project,
-        `Workbook Publisher`:`Workbook Publisher`
+        Publisher: Publisher
     }
 
 ;

@@ -1,10 +1,9 @@
-// CSV - TDS to RAPID Rel
+// CSV - TBW to TDS - RELATIONSHIPS
 LOAD CSV WITH HEADERS
-FROM 'file:///tds_to_rapid_columns_removed.csv' as row
+FROM 'https://raw.githubusercontent.com/wisemuffin/rapid-cypher-neo4j/master/RAPID/example-data/twb_to_tds_rapid.csv' as row
+//RETURN row
 
-MATCH (tds:TDS {name: row.tds}), (sql:SQL {name: row.schema+'.'+row.table})
+MATCH  (twb:TWB {name: row.`Workbook Name`}), (tds:TDS {name: row.`Datasource Name`})
 
-MERGE (tds)-[rel:DEPENDS]->(sql)
-MERGE (tds)<-[:IMPACTS]-(sql)
-
-RETURN (tds)-[rel]->(sql)
+MERGE (twb)-[rel:DEPENDS]->(tds)
+RETURN (twb)-[rel]->(tds)
