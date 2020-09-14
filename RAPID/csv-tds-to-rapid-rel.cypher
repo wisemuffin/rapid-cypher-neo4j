@@ -1,10 +1,10 @@
-// CSV - TBW to TDS - RELATIONSHIPS
+// CSV - TDS to SQL - RELATIONSHIPS
 LOAD CSV WITH HEADERS
 FROM 'https://raw.githubusercontent.com/wisemuffin/rapid-cypher-neo4j/master/RAPID/example-data/tds_to_rapid_columns_removed.csv' as row
-//RETURN row
+//RETURN row LIMIT 10
 
-MATCH  (twb:TWB {name: row.`Workbook Name`}), (tds:TDS {name: row.`Datasource Name`})
+MATCH (tds:TDS {name: row.tds}),  (sql:SQL {name: row.schema+'.'+row.table})
 
-MERGE (twb)-[rel:DEPENDS]->(tds)
-MERGE (twb)<-[:IMPACTS]-(tds)
-RETURN (twb)-[rel]->(tds)
+MERGE (tds)-[rel:DEPENDS]->(sql)
+MERGE (tds)<-[:IMPACTS]-(sql)
+RETURN (tds)-[rel]->(sql)
