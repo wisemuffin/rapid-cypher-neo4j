@@ -6,5 +6,4 @@ FROM 'https://raw.githubusercontent.com/wisemuffin/rapid-cypher-neo4j/master/RAP
 MATCH  (twb:TWB {name: row.`Workbook Name`}), (tds:TDS {name: row.`Datasource Name`})
 
 MERGE (twb)-[rel:DEPENDS]->(tds)
-MERGE (twb)-[:IMPACTS]->(tds)
 RETURN (twb)-[rel]->(tds)

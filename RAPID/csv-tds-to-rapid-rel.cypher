@@ -6,5 +6,4 @@ FROM 'https://raw.githubusercontent.com/wisemuffin/rapid-cypher-neo4j/master/RAP
 MATCH (tds:TDS {name: row.tds}),  (sql:SQL {name: row.schema+'.'+row.table})
 
 MERGE (tds)-[rel:DEPENDS]->(sql)
-MERGE (tds)<-[:IMPACTS]-(sql)
 RETURN (tds)-[rel]->(sql)
