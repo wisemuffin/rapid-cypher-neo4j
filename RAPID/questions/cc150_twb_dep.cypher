@@ -1,5 +1,5 @@
 // CC150 twb dependencies traversal
-MATCH query=((twb:TWB)-[:DEPENDS*1..6]->(c))
+MATCH query=((twb:TWB)-[:DEPENDS*1..4]->(c))
 WHERE twb.name CONTAINS 'CC150'
 RETURN query
 
