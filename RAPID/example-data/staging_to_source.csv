@@ -1,60 +1,60 @@
 ﻿Schema,Table / View,source system
-bia_sa_stg,crm_case_t,decomissioning
-bia_sa_stg,rmdy_t2109__c_c1000000151,remdedy
-bia_sa_stg,d_date,decomissioning
-bia_sa_stg,d_incident_outcome,decomissioning
-bia_sa_stg,d_incident_spec,decomissioning
-bia_sa_stg,d_location,decomissioning
-bia_sa_stg,d_service_avc,decomissioning
-bia_sa_stg,d_wba_end_user_fault_sla_target,decomissioning
-bia_sa_stg,e_bseg_matched_data_sites_reconciled_t,decomissioning
-bia_sa_stg,elms_vw_enhanced_location,decomissioning
+bia_sa_stg,crm_case_t,salesforce
+bia_sa_stg,rmdy_t2109__c_c1000000151,remedy
+bia_sa_stg,d_date,reference
+bia_sa_stg,d_incident_outcome,remedy
+bia_sa_stg,d_incident_spec,remedy
+bia_sa_stg,d_location,pni
+bia_sa_stg,d_service_avc,service portal
+bia_sa_stg,d_wba_end_user_fault_sla_target,uds
+bia_sa_stg,e_bseg_matched_data_sites_reconciled_t,uds
+bia_sa_stg,elms_vw_enhanced_location,elms
 bia_sa_stg,gns_mmiqdetail,genesys
 bia_sa_stg,gns_mmvqdetail,genesys
 bia_sa_stg,gns_queuedetail,genesys
 bia_sa_stg,wwm_tx_work_request_status_history,wwm
-bia_sa_stg,gns_vwfm_performance_15min,decomissioning
-bia_sa_stg,m_mapping_table_varchar_t,decomissioning
+bia_sa_stg,gns_vwfm_performance_15min,genesys
+bia_sa_stg,m_mapping_table_varchar_t,reference
 bia_sa_stg,wwm_tx_work_order,wwm
-bia_sa_stg,max_workorderspec,decomissioning
-bia_sa_stg,wba_assr_svt_titles,decomissioning
+bia_sa_stg,max_workorderspec,wwm
+bia_sa_stg,wba_assr_svt_titles,uds
 bia_sa_stg,c_wwm_work_request_status_history,wwm
 bia_sa_stg,gns_agentcalldetail,genesys
 bia_sa_stg,wwm_tx_work_request_t,wwm
 bia_sa_stg,wwm_tx_work_order_t,wwm
-bia_sa_stg,rmdy_t2115__base,remdedy
+bia_sa_stg,rmdy_t2115__base,remedy
 bia_sa_stg,wwm_tx_work_request_status_history_t,wwm
 bia_sa_stg,ful_product_t,comptel
 bia_sa_stg,c_wwm_work_order_status_history,wwm
 bia_sa_stg,ful_csll_service_t,comptel
 bia_sa_stg,wwm_tx_appointment_t,wwm
-bia_sa_stg,rmdy_t2597,remdedy
+bia_sa_stg,rmdy_t2597,remedy
 bia_sa_stg,ful_order_t,comptel
-bia_sa_stg,rmdy_t2358,remdedy
-bia_sa_stg,rmdy_field,remdedy
+bia_sa_stg,rmdy_t2358,remedy
+bia_sa_stg,rmdy_field,remedy
 bia_sa_stg,c_wwm_work_request,wwm
-bia_sa_stg,rmdy_t2115__c_c1000000151,remdedy
+bia_sa_stg,rmdy_t2115__c_c1000000151,remedy
 bia_sa_stg,wwm_tx_appointment_status_history_t,wwm
-bia_sa_stg,rmdy_arschema,remdedy
+bia_sa_stg,rmdy_arschema,remedy
 bia_sa_stg,gns_vwfm_agentadherencestates,genesys
 bia_sa_stg,gns_mmagentixndetail,genesys
 bia_sa_stg,c_wwm_appointment,wwm
 bia_sa_stg,wwm_tx_work_request,wwm
-bia_sa_stg,rmdy_t1876,remdedy
+bia_sa_stg,rmdy_t1876,remedy
 bia_sa_stg,wwm_tx_work_order_status_history_t,wwm
 bia_sa_stg,c_wwm_work_order,wwm
-bia_sa_stg,rmdy_t1965,remdedy
-bia_sa_stg,rmdy_t2110,remdedy
+bia_sa_stg,rmdy_t1965,remedy
+bia_sa_stg,rmdy_t2110,remedy
 bia_sa_stg,ful_nhur_t,comptel
 bia_sa_stg,gns_vwfm_agentadherencetotal,genesys
-bia_sa_stg,rmdy_t2109__base,remdedy
-bia_sa_stg,rmdy_t2068,remdedy
+bia_sa_stg,rmdy_t2109__base,remedy
+bia_sa_stg,rmdy_t2068,remedy
 bia_sa_stg,wwm_tx_work_order_status_history,wwm
 bia_sa_stg,gns_vwfm_agentadherencedata,genesys
 bia_sa_stg,ful_order_keep_t,comptel
 bia_sa_stg,ful_avc_service_t,comptel
 bia_sa_stg,wwm_tx_appointment,wwm
-bia_sa_stg,rmdy_field_enum_values,remdedy
+bia_sa_stg,rmdy_field_enum_values,remedy
 bia_sa_stg,c_wwm_appointment_status_history,wwm
 bia_sa_stg,gns_mmagentstatedetail,genesys
 bia_sa_stg,wwm_tx_appointment_new,wwm
@@ -262,32 +262,32 @@ ref_sa_stg,impt_cc_sa_stg_eg_reference_v_t,reference
 ref_sa_stg,impt_sa_mttr_exclusion_v_t,reference
 ref_sa_stg,ref_fme,reference
 ref_sa_stg,service_class_ref,reference
-rmdy_sa_stg,impt_sa_rmdy_t2115_v_t,remdedy
-rmdy_sa_stg,impt_sa_rmdy_nbn_hpd_10_appointmentworktick_v_t,remdedy
-rmdy_sa_stg,temp_impt_sa_rmdy_bmc_core_bmc_serviceofferin546_v_t,remdedy
-rmdy_sa_stg,impt_sa_rmdy_nbn_hpd_appointment_store_v_t,remdedy
-rmdy_sa_stg,impt_sa_rmdy_asinteractionlog_v_t,remdedy
-rmdy_sa_stg,asinteractionlog,remdedy
-rmdy_sa_stg,bmc_core_bmc_serviceofferin546,remdedy
-rmdy_sa_stg,field,remdedy
-rmdy_sa_stg,field_enum_values,remdedy
-rmdy_sa_stg,nbn_hpd_10_appointmentworktick,remdedy
-rmdy_sa_stg,temp_impt_sa_rmdy_t2115_v_t,remdedy
-rmdy_sa_stg,nbn_hpd_appointment_store,remdedy
-rmdy_sa_stg,t1876,remdedy
-rmdy_sa_stg,t1965,remdedy
-rmdy_sa_stg,t2068,remdedy
-rmdy_sa_stg,t2109,remdedy
-rmdy_sa_stg,t2110,remdedy
-rmdy_sa_stg,temp_impt_sa_rmdy_nbn_hpd_10_appointmentworktick_v_t,remdedy
-rmdy_sa_stg,t2115,remdedy
-rmdy_sa_stg,t2115_archival,remdedy
-rmdy_sa_stg,t2115_detailed_description,remdedy
-rmdy_sa_stg,t2358,remdedy
-rmdy_sa_stg,t4726,remdedy
-rmdy_sa_stg,temp_impt_sa_rmdy_nbn_hpd_appointment_store_v_t,remdedy
-rmdy_sa_stg,impt_sa_rmdy_bmc_core_bmc_serviceofferin546_v_t,remdedy
-rmdy_sa_stg,temp_impt_sa_rmdy_asinteractionlog_v_t,remdedy
+rmdy_sa_stg,impt_sa_rmdy_t2115_v_t,remedy
+rmdy_sa_stg,impt_sa_rmdy_nbn_hpd_10_appointmentworktick_v_t,remedy
+rmdy_sa_stg,temp_impt_sa_rmdy_bmc_core_bmc_serviceofferin546_v_t,remedy
+rmdy_sa_stg,impt_sa_rmdy_nbn_hpd_appointment_store_v_t,remedy
+rmdy_sa_stg,impt_sa_rmdy_asinteractionlog_v_t,remedy
+rmdy_sa_stg,asinteractionlog,remedy
+rmdy_sa_stg,bmc_core_bmc_serviceofferin546,remedy
+rmdy_sa_stg,field,remedy
+rmdy_sa_stg,field_enum_values,remedy
+rmdy_sa_stg,nbn_hpd_10_appointmentworktick,remedy
+rmdy_sa_stg,temp_impt_sa_rmdy_t2115_v_t,remedy
+rmdy_sa_stg,nbn_hpd_appointment_store,remedy
+rmdy_sa_stg,t1876,remedy
+rmdy_sa_stg,t1965,remedy
+rmdy_sa_stg,t2068,remedy
+rmdy_sa_stg,t2109,remedy
+rmdy_sa_stg,t2110,remedy
+rmdy_sa_stg,temp_impt_sa_rmdy_nbn_hpd_10_appointmentworktick_v_t,remedy
+rmdy_sa_stg,t2115,remedy
+rmdy_sa_stg,t2115_archival,remedy
+rmdy_sa_stg,t2115_detailed_description,remedy
+rmdy_sa_stg,t2358,remedy
+rmdy_sa_stg,t4726,remedy
+rmdy_sa_stg,temp_impt_sa_rmdy_nbn_hpd_appointment_store_v_t,remedy
+rmdy_sa_stg,impt_sa_rmdy_bmc_core_bmc_serviceofferin546_v_t,remedy
+rmdy_sa_stg,temp_impt_sa_rmdy_asinteractionlog_v_t,remedy
 splnk_sa_stg,cc_splnk_sa_comptel_fallout_exceptions_t,comptel
 splnk_sa_stg,cc_ext_splnk_spt_orders_t,service portal
 splnk_sa_stg,cc_ext_splnk_comptel_orders_t,comptel
@@ -456,73 +456,73 @@ wwm_sa_stg,workorderspec,wwm
 wwm_sa_stg,workperiod,wwm
 wwm_sa_stg,woserviceaddress,wwm
 wwm_sa_stg,wostatus,wwm
-enc_dde,temp_impt_sa_slf_emailmessage_v_t,Salesforce
-enc_dde,temp_impt_sa_slf_task_v_t,Salesforce
-enc_dde,temp_impt_sa_slf_account_v_t,Salesforce
-enc_dde,temp_impt_sa_slf_case_v_t,Salesforce
-enc_dde,temp_impt_sa_slf_case_01_v_t,Salesforce
-enc_dde,impt_sa_slf_task_v_t,Salesforce
-enc_dde,impt_sa_slf_account_v_t,Salesforce
-enc_dde,impt_sa_slf_emailmessage_v_t,Salesforce
-enc_dde,impt_sa_slf_case_v_t,Salesforce
-enc_dde,impt_sa_slf_case_01_v_t,Salesforce
-nbn_dde_02,u_pni_stg_nbn_sc_audit_report_v,SpatialNET
-nbn_dde_23,nbn_sc_audit_report_final_v,SpatialNET
-nbn_dde_23,temp_impt_u_pni_stg_nbn_sc_audit_report_v_t,SpatialNET
-nbn_dde_23,impt_u_pni_stg_nbn_sc_audit_report_v_t,SpatialNET
+enc_dde,temp_impt_sa_slf_emailmessage_v_t,salesforce
+enc_dde,temp_impt_sa_slf_task_v_t,salesforce
+enc_dde,temp_impt_sa_slf_account_v_t,salesforce
+enc_dde,temp_impt_sa_slf_case_v_t,salesforce
+enc_dde,temp_impt_sa_slf_case_01_v_t,salesforce
+enc_dde,impt_sa_slf_task_v_t,salesforce
+enc_dde,impt_sa_slf_account_v_t,salesforce
+enc_dde,impt_sa_slf_emailmessage_v_t,salesforce
+enc_dde,impt_sa_slf_case_v_t,salesforce
+enc_dde,impt_sa_slf_case_01_v_t,salesforce
+nbn_dde_02,u_pni_stg_nbn_sc_audit_report_v,spatial net
+nbn_dde_23,nbn_sc_audit_report_final_v,spatial net
+nbn_dde_23,temp_impt_u_pni_stg_nbn_sc_audit_report_v_t,spatial net
+nbn_dde_23,impt_u_pni_stg_nbn_sc_audit_report_v_t,spatial net
 cc_dde,temp_impt_sa_fact_cc_financial_aid_rsp_confirmed_v_t,manual
 cc_dde,impt_sa_fact_cc_financial_aid_rsp_confirmed_v_t,manual
 nbn_dde_02,sa_fact_cc_financial_aid_rsp_confirmed_v,manual
-neto_stg,fttx_poc_chronos_telemetry_t,decomissioning
-neto_stg,fttx_poc_thor_enrichment_t,decomissioning
-neto_stg,fttx_poc_thor_telemetry_t,decomissioning
-neto_stg,fttx_r1_r3_t,decomissioning
-neto_stg,fttx_r12_t,decomissioning
-neto_stg,fttx_r19_r22_t,decomissioning
-neto_stg,fttx_r7_t,decomissioning
-neto_stg,fw_file1_t,decomissioning
-neto_stg,fw_file2_t,decomissioning
-neto_stg,fw_poc_t,decomissioning
-neto_stg,hfc_p11_t,decomissioning
-neto_stg,hfc_p11_thor_t,decomissioning
-neto_stg,hfc_p12_p14_t,decomissioning
-neto_stg,hfc_p13_t,decomissioning
-neto_stg,hfc_p15_t,decomissioning
-neto_stg,hfc_p15_thor_t,decomissioning
-neto_stg,hfc_p2_3_t,decomissioning
-neto_stg,hfc_p2_3_thor_t,decomissioning
-neto_stg,hfc_p2_4_p2_5_t,decomissioning
-neto_stg,id_link_t,decomissioning
-neto_stg,impt_sa_fttx_poc_chronos_telemetry_t,decomissioning
-neto_stg,impt_sa_fttx_poc_thor_enrichment_t,decomissioning
-neto_stg,impt_sa_fttx_poc_thor_telemetry_t,decomissioning
-neto_stg,impt_sa_fttx_r1_r3_t,decomissioning
-neto_stg,impt_sa_fttx_r12_t,decomissioning
-neto_stg,impt_sa_fttx_r19_r22_t,decomissioning
-neto_stg,impt_sa_fttx_r7_t,decomissioning
-neto_stg,impt_sa_fw_file1_t,decomissioning
-neto_stg,impt_sa_fw_file2_t,decomissioning
-neto_stg,impt_sa_fw_poc_t,decomissioning
-neto_stg,impt_sa_hfc_p11_t,decomissioning
-neto_stg,impt_sa_hfc_p11_thor_t,decomissioning
-neto_stg,impt_sa_hfc_p12_p14_t,decomissioning
-neto_stg,impt_sa_hfc_p13_t,decomissioning
-neto_stg,impt_sa_hfc_p15_t,decomissioning
-neto_stg,impt_sa_hfc_p15_thor_t,decomissioning
-neto_stg,impt_sa_hfc_p2_3_t,decomissioning
-neto_stg,impt_sa_hfc_p2_3_thor_t,decomissioning
-neto_stg,impt_sa_hfc_p2_4_p2_5_t,decomissioning
-neto_stg,impt_sa_transit_b14_t,decomissioning
-neto_stg,impt_sa_transit_b15_t,decomissioning
-neto_stg,impt_sa_transit_b16_t,decomissioning
-neto_stg,transit_b14_t,decomissioning
-neto_stg,transit_b15_t,decomissioning
-neto_stg,transit_b16_t,decomissioning
+neto_stg,fttx_poc_chronos_telemetry_t,thor / chrons
+neto_stg,fttx_poc_thor_enrichment_t,thor / chrons
+neto_stg,fttx_poc_thor_telemetry_t,thor / chrons
+neto_stg,fttx_r1_r3_t,thor / chrons
+neto_stg,fttx_r12_t,thor / chrons
+neto_stg,fttx_r19_r22_t,thor / chrons
+neto_stg,fttx_r7_t,thor / chrons
+neto_stg,fw_file1_t,thor / chrons
+neto_stg,fw_file2_t,thor / chrons
+neto_stg,fw_poc_t,thor / chrons
+neto_stg,hfc_p11_t,thor / chrons
+neto_stg,hfc_p11_thor_t,thor / chrons
+neto_stg,hfc_p12_p14_t,thor / chrons
+neto_stg,hfc_p13_t,thor / chrons
+neto_stg,hfc_p15_t,thor / chrons
+neto_stg,hfc_p15_thor_t,thor / chrons
+neto_stg,hfc_p2_3_t,thor / chrons
+neto_stg,hfc_p2_3_thor_t,thor / chrons
+neto_stg,hfc_p2_4_p2_5_t,thor / chrons
+neto_stg,id_link_t,thor / chrons
+neto_stg,impt_sa_fttx_poc_chronos_telemetry_t,thor / chrons
+neto_stg,impt_sa_fttx_poc_thor_enrichment_t,thor / chrons
+neto_stg,impt_sa_fttx_poc_thor_telemetry_t,thor / chrons
+neto_stg,impt_sa_fttx_r1_r3_t,thor / chrons
+neto_stg,impt_sa_fttx_r12_t,thor / chrons
+neto_stg,impt_sa_fttx_r19_r22_t,thor / chrons
+neto_stg,impt_sa_fttx_r7_t,thor / chrons
+neto_stg,impt_sa_fw_file1_t,thor / chrons
+neto_stg,impt_sa_fw_file2_t,thor / chrons
+neto_stg,impt_sa_fw_poc_t,thor / chrons
+neto_stg,impt_sa_hfc_p11_t,thor / chrons
+neto_stg,impt_sa_hfc_p11_thor_t,thor / chrons
+neto_stg,impt_sa_hfc_p12_p14_t,thor / chrons
+neto_stg,impt_sa_hfc_p13_t,thor / chrons
+neto_stg,impt_sa_hfc_p15_t,thor / chrons
+neto_stg,impt_sa_hfc_p15_thor_t,thor / chrons
+neto_stg,impt_sa_hfc_p2_3_t,thor / chrons
+neto_stg,impt_sa_hfc_p2_3_thor_t,thor / chrons
+neto_stg,impt_sa_hfc_p2_4_p2_5_t,thor / chrons
+neto_stg,impt_sa_transit_b14_t,thor / chrons
+neto_stg,impt_sa_transit_b15_t,thor / chrons
+neto_stg,impt_sa_transit_b16_t,thor / chrons
+neto_stg,transit_b14_t,thor / chrons
+neto_stg,transit_b15_t,thor / chrons
+neto_stg,transit_b16_t,thor / chrons
 pni_sa_stg,nbn_sc_audit_report,pni
 pni_sa_stg,tmp_nbn_sc_audit_report_t,pni
-streamline,cost_centre,decomissioning
-streamline,extract_no_task_landing,decomissioning
-streamline,form_responses_worker,decomissioning
-streamline,future_due_date,decomissioning
-streamline,job_times_baseline,decomissioning
-streamline,str_field_engineer_list,decomissioning
+streamline,cost_centre,external vendor streamline
+streamline,extract_no_task_landing,external vendor streamline
+streamline,form_responses_worker,external vendor streamline
+streamline,future_due_date,external vendor streamline
+streamline,job_times_baseline,external vendor streamline
+streamline,str_field_engineer_list,external vendor streamline
